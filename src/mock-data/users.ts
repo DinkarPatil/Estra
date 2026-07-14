@@ -1,0 +1,57 @@
+import type { User } from '@/types/user';
+
+export const mockUsers: User[] = [
+  {
+    id: 'inv-001',
+    email: 'investor@glimmora.com',
+    name: 'Sarah Chen',
+    role: 'investor',
+    tier: 'uhni',
+    createdAt: '2024-01-15T08:00:00Z',
+    lastLoginAt: '2024-12-20T14:30:00Z',
+  },
+  {
+    id: 'inv-002',
+    email: 'john.investor@glimmora.com',
+    name: 'John Williams',
+    role: 'investor',
+    tier: 'hni',
+    createdAt: '2024-03-10T08:00:00Z',
+    lastLoginAt: '2024-12-19T09:00:00Z',
+  },
+  {
+    id: 'brk-001',
+    email: 'broker@glimmora.com',
+    name: 'James Okafor',
+    role: 'broker',
+    company: 'Global Realty Partners',
+    createdAt: '2024-02-10T08:00:00Z',
+    lastLoginAt: '2024-12-20T11:00:00Z',
+  },
+  {
+    id: 'brk-002',
+    email: 'lisa.broker@glimmora.com',
+    name: 'Lisa Martinez',
+    role: 'broker',
+    company: 'Prestige Brokers',
+    createdAt: '2024-04-05T08:00:00Z',
+    lastLoginAt: '2024-12-18T16:00:00Z',
+  },
+  {
+    id: 'dev-001',
+    email: 'developer@glimmora.com',
+    name: 'Priya Sharma',
+    role: 'developer',
+    company: 'Vertex Developments',
+    createdAt: '2024-03-05T08:00:00Z',
+    lastLoginAt: '2024-12-20T10:00:00Z',
+  },
+  {
+    id: 'adm-001',
+    email: 'admin@glimmora.com',
+    name: 'Alex Rivera',
+    role: 'admin',
+    createdAt: '2024-01-01T08:00:00Z',
+    lastLoginAt: '2024-12-20T15:00:00Z',
+  },
+];

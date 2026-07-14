@@ -1,0 +1,13 @@
+[
+  { "id": "dev-001", "name": "Marina Development Corp",   "country": "Singapore" },
+  { "id": "dev-002", "name": "Nakheel Properties",        "country": "United Arab Emirates" },
+  { "id": "dev-003", "name": "Emaar Properties",          "country": "United Arab Emirates" },
+  { "id": "dev-004", "name": "Heritage Estates London",   "country": "United Kingdom" },
+  { "id": "dev-005", "name": "Related Companies",         "country": "United States" },
+  { "id": "dev-006", "name": "Lodha Group",               "country": "India" },
+  { "id": "dev-007", "name": "Mori Building Co.",         "country": "Japan" },
+  { "id": "dev-008", "name": "Turner Studio Architects",  "country": "Australia" },
+  { "id": "dev-009", "name": "Paris Commercial Holdings", "country": "France" },
+  { "id": "dev-010", "name": "Terra Group",               "country": "United States" },
+  { "id": "dev-011", "name": "Great Gulf Group",          "country": "Canada" }
+]

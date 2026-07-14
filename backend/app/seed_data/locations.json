@@ -1,0 +1,14 @@
+[
+  { "id": "loc-001", "city": "Singapore", "region": null,           "country": "Singapore",             "latitude": 1.2838,   "longitude": 103.8591 },
+  { "id": "loc-002", "city": "Dubai",     "region": null,           "country": "United Arab Emirates",  "latitude": 25.1124,  "longitude": 55.139   },
+  { "id": "loc-003", "city": "Dubai",     "region": null,           "country": "United Arab Emirates",  "latitude": 25.1972,  "longitude": 55.2744  },
+  { "id": "loc-004", "city": "London",    "region": null,           "country": "United Kingdom",        "latitude": 51.5074,  "longitude": -0.1478  },
+  { "id": "loc-005", "city": "New York",  "region": "NY",           "country": "United States",         "latitude": 40.7536,  "longitude": -74.0003 },
+  { "id": "loc-006", "city": "Mumbai",    "region": "Maharashtra",  "country": "India",                 "latitude": 19.0596,  "longitude": 72.8295  },
+  { "id": "loc-007", "city": "Tokyo",     "region": null,           "country": "Japan",                 "latitude": 35.6581,  "longitude": 139.7514 },
+  { "id": "loc-008", "city": "Sydney",    "region": "NSW",          "country": "Australia",             "latitude": -33.8915, "longitude": 151.2767 },
+  { "id": "loc-009", "city": "Paris",     "region": null,           "country": "France",                "latitude": 48.8566,  "longitude": 2.3622   },
+  { "id": "loc-010", "city": "Miami",     "region": "FL",           "country": "United States",         "latitude": 25.7826,  "longitude": -80.1341 },
+  { "id": "loc-011", "city": "Lisbon",    "region": null,           "country": "Portugal",              "latitude": 38.7118,  "longitude": -9.1302  },
+  { "id": "loc-012", "city": "Toronto",   "region": "ON",           "country": "Canada",                "latitude": 43.6709,  "longitude": -79.3933 }
+]

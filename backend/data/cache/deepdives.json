@@ -1,0 +1,819 @@
+{
+  "cc58a6ea-c88d-4b17-91a8-1b69593ac62e": {
+    "property_id": "cc58a6ea-c88d-4b17-91a8-1b69593ac62e",
+    "property": {
+      "id": "cc58a6ea-c88d-4b17-91a8-1b69593ac62e",
+      "source": "magicbricks_2026_04",
+      "external_id": "4d423833313836333033",
+      "listing_type": "sale",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "locality_text": "Lonavala",
+      "title": "3 BHK 2324 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqft": 2324.0,
+      "price_inr": 39500000.0,
+      "price_per_sqft": 16996.56,
+      "raw": "{\"url\": \"https://www.magicbricks.com/propertyDetails/3-BHK-2638-Sq-ft-Villa-FOR-Sale-Lonavala-in-Pune&id=4d423833313836333033\", \"property_id\": \"4d423833313836333033\", \"name\": \"3 BHK 2324 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune\", \"description\": \"You can buy 2324 Sqft 3 BHK Villa for Sale in Kalpataru Amoda Reserve Lonavala in Pune at the price of 3.95 Cr. Unfurnished ✓ 1.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>\", \"price\": 39500000.0, \"price_currency\": \"INR\", \"availability\": \"https://schema.org/InStock\", \"locality\": \"Lonavala\", \"region\": \"Pune\", \"country\": \"IN\", \"latitude\": 18.786414, \"longitude\": 73.387582, \"bedrooms\": 3, \"bathrooms\": 3, \"floor_size_label\": \"2638 FTK\", \"carpet_area\": \"2324 sqft\", \"transaction_type\": \"New Property\", \"status\": null, \"facing\": \"East\", \"furnished_status\": \"Unfurnished\", \"car_parking\": \"1 Covered\", \"ownership_type\": \"Freehold\", \"developer\": null, \"project_name\": null, \"possession_note\": null, \"lifts\": null, \"rera_ids\": [\"P52100003084\"], \"amenities\": [{\"name\": \"Parking\", \"value\": \"1 Covered\"}, {\"name\": \"Flooring\", \"value\": \"Vitrified\"}, {\"name\": \"Furnishing\", \"value\": \"Unfurnished\"}, {\"name\": \"Additional Rooms\", \"value\": \"None of these\"}], \"image_url\": \"https://img.staticmb.com/mbphoto/property/cropped_images/2026/Jan/30/Photo_h600_w900/83186303_6_creenshot20260130182151_600_900.jpg\", \"date_posted\": \"Apr 01, '2026\", \"seller_type\": null, \"scraped_at\": \"2026-04-25T01:41:03.013337+00:00\", \"error\": null}",
+      "scraped_at": "2026-04-25T01:41:03.013337+00:00",
+      "last_seen_at": "2026-04-25T16:46:49.048930+00:00",
+      "contact": "+91-98765-43210",
+      "broker_name": "Estra Verified Partner",
+      "developer_name": "3 Group",
+      "address": "Lonavala, Pune",
+      "description": "You can buy 2324 Sqft 3 BHK Villa for Sale in Kalpataru Amoda Reserve Lonavala in Pune at the price of 3.95 Cr. Unfurnished ✓ 1.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>",
+      "floor_level": null,
+      "rera_number": null,
+      "amenities": [
+        {
+          "name": "Parking",
+          "value": "1 Covered"
+        },
+        {
+          "name": "Flooring",
+          "value": "Vitrified"
+        },
+        {
+          "name": "Furnishing",
+          "value": "Unfurnished"
+        },
+        {
+          "name": "Additional Rooms",
+          "value": "None of these"
+        }
+      ],
+      "facing": "East",
+      "project_age": null,
+      "url": "https://www.magicbricks.com/propertyDetails/3-BHK-2638-Sq-ft-Villa-FOR-Sale-Lonavala-in-Pune&id=4d423833313836333033"
+    },
+    "area_context": {
+      "area_name": "Lonavala",
+      "city": "Pune",
+      "trend_1yr_pct": null,
+      "trend_3yr_pct": null,
+      "trend_5yr_pct": null,
+      "latest_psf": null,
+      "rental_yield_pct": 1.37,
+      "downside_risk_score": 33.48,
+      "uplift_potential_score": 100.0,
+      "infra_impact_score": 57.25,
+      "liquidity_demand_score": 17.12,
+      "historical_trend_score": 100.0,
+      "legal_safety_score": 85.0,
+      "market_momentum_score": 86.36,
+      "news_relevance_score": 94.0,
+      "volatility_index": 0.4545
+    },
+    "graph_context": {
+      "subject": {
+        "id": "cc58a6ea-c88d-4b17-91a8-1b69593ac62e",
+        "title": "3 BHK 2324 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune",
+        "locality_text": "Lonavala",
+        "city": "Pune",
+        "bedrooms": 3,
+        "area_sqft": 2324.0,
+        "price_inr": 39500000.0,
+        "price_per_sqft": 16996.56
+      },
+      "area_peers": [
+        {
+          "id": "8910bcfe-62a8-4b18-82ab-629a79adbea0",
+          "title": "2 BHK 612 Sqft Flat  For Sale in Green Park, Lonavala, Pune",
+          "locality_text": "Lonavala",
+          "city": "Pune",
+          "bedrooms": 2,
+          "area_sqft": 612.0,
+          "price_inr": 9000000.0,
+          "price_per_sqft": 14705.88
+        },
+        {
+          "id": "bbfe1d3e-5736-472e-a06d-c5a038a791ad",
+          "title": "4 BHK 3700 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune",
+          "locality_text": "Lonavala",
+          "city": "Pune",
+          "bedrooms": 4,
+          "area_sqft": 3700.0,
+          "price_inr": 79999999.0,
+          "price_per_sqft": 21621.62
+        },
+        {
+          "id": "5666d9b9-4d82-4e9a-80a2-a89e4aa6c7c7",
+          "title": "4 BHK 2200 Sqft Villa  For Sale in  Lonavala, Pune",
+          "locality_text": "Lonavala",
+          "city": "Pune",
+          "bedrooms": 4,
+          "area_sqft": 2200.0,
+          "price_inr": 22100000.0,
+          "price_per_sqft": 10045.45
+        },
+        {
+          "id": "7febacb8-80c8-41a8-b023-69304cd762be",
+          "title": "4 BHK 1900 Sqft Villa  For Sale in  Lonavala, Pune",
+          "locality_text": "Lonavala",
+          "city": "Pune",
+          "bedrooms": 4,
+          "area_sqft": 1900.0,
+          "price_inr": 18900000.0,
+          "price_per_sqft": 9947.37
+        },
+        {
+          "id": "c34c16a3-4c16-4576-8fd8-99efa5d2771c",
+          "title": "4 BHK 3000 Sqft Villa  For Sale in  Lonavala, Pune",
+          "locality_text": "Lonavala",
+          "city": "Pune",
+          "bedrooms": 4,
+          "area_sqft": 3000.0,
+          "price_inr": 29000000.0,
+          "price_per_sqft": 9666.67
+        }
+      ],
+      "same_developer_peers": [
+        {
+          "id": "53a06b37-8b82-4c75-a92a-6fd283c0e0ad",
+          "title": "3 BHK Flat in Anand Park, Aundh",
+          "locality_text": "Aundh, Anand Park, Aundh",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1100.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "d7081870-2704-4c9b-88bf-21650aeb13f5",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1601.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "7224e23d-68a3-4f7f-9aef-fe9fd798cadc",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1473.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "69bfc59a-f7e0-495d-9629-cefddee2b91f",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1549.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "a7f02b09-9619-495f-886a-13342990d6f7",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1518.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        }
+      ],
+      "similar_listings": [
+        {
+          "id": "02fc834f-3d51-4517-926f-0e14aa0969ca",
+          "title": "3 BHK 1244 Sqft Flat  For Sale  Goregaon West, Mumbai",
+          "locality_text": "Goregaon West",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1244.0,
+          "price_inr": 39500000.0,
+          "price_per_sqft": 31752.41
+        },
+        {
+          "id": "86d13ad8-9f69-41f0-965b-0ac05cb079b8",
+          "title": "3 BHK 1200 Sqft Flat  For Sale in Lokhandwala Octacrest, Lokhandwala Township Kandivali East, Mumbai",
+          "locality_text": "Lokhandwala Township Kandivali East",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1200.0,
+          "price_inr": 39500000.0,
+          "price_per_sqft": 32916.67
+        },
+        {
+          "id": "59299d6b-ef9e-4e32-a8b1-8bb2a1cfd071",
+          "title": "3 BHK 1050 Sqft Flat  For Sale in Gold Crest, Andheri West, Mumbai",
+          "locality_text": "Andheri West",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1050.0,
+          "price_inr": 39500000.0,
+          "price_per_sqft": 37619.05
+        },
+        {
+          "id": "ef2e481d-c5b5-41f3-b96a-8f8d5ae70db6",
+          "title": "3 BHK 1296 Sqft Flat  For Sale in K Raheja Vistas, Andheri East, Mumbai",
+          "locality_text": "Andheri East",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1296.0,
+          "price_inr": 39500000.0,
+          "price_per_sqft": 30478.4
+        },
+        {
+          "id": "2f462dcb-54a9-450d-9a07-80d3e9319932",
+          "title": "3 BHK 850 Sqft Flat  For Sale in Mohini Tower, Khar West, Mumbai",
+          "locality_text": "Khar West",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 850.0,
+          "price_inr": 39500000.0,
+          "price_per_sqft": 46470.59
+        }
+      ],
+      "price_position": {
+        "subject_psf": 16996.56,
+        "area_median_psf": 9666.67,
+        "delta_pct": 75.83,
+        "label": "above_area_median",
+        "peer_count": 9
+      },
+      "developer_context": {
+        "name": "3",
+        "known_project_count": 6068,
+        "locality_count": 479
+      },
+      "relationship_notes": [
+        "Priced 75.83% above the median PSF of 9 comparable listings in the same locality.",
+        "Developer '3' appears in 6068 cached listings across 479 locality clusters.",
+        "5 same-BHK listing(s) within ±20% of this price found across the cache."
+      ]
+    },
+    "verdict": "NEUTRAL",
+    "narrative": "AI analysis temporarily unavailable for 3 BHK 2324 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune. Below are the raw property and area metrics for your review.",
+    "sections": {
+      "property_overview": "3 BHK in 3 BHK 2324 Sqft Villa  For Sale in Kalpataru Amoda Reserve, Lonavala, Pune, Lonavala. Price: ₹39500000.0 (₹16996.56/sqft).",
+      "area_investment_context": "Lonavala area PSF: ₹None. Trends and scores available in area_context below.",
+      "value_analysis": "Please compare property PSF to area PSF manually.",
+      "risk_compliance": "RERA: NOT VERIFIED",
+      "developer_project_quality": "Verify developer credentials on MahaRERA.",
+      "amenities_lifestyle": "Amenities not analyzed.",
+      "final_recommendation": "AI generation failed — review data below and make an independent assessment."
+    },
+    "action_items": [
+      "Review property and area data below",
+      "Verify RERA status on MahaRERA",
+      "Visit site before making a decision"
+    ],
+    "key_highlights": [
+      "AI analysis unavailable"
+    ],
+    "investment_thesis": "Unable to generate thesis — AI service temporarily down."
+  },
+  "c3712518-36b7-4cb4-b617-6b294d241ad3": {
+    "property_id": "c3712518-36b7-4cb4-b617-6b294d241ad3",
+    "property": {
+      "id": "c3712518-36b7-4cb4-b617-6b294d241ad3",
+      "source": "magicbricks_2026_04",
+      "external_id": "4d423833373136353533",
+      "listing_type": "sale",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "locality_text": "Worli",
+      "title": "3 BHK 1300 Sqft Flat  For Sale  Worli, Mumbai",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqft": 1300.0,
+      "price_inr": 102700000.0,
+      "price_per_sqft": 79000.0,
+      "raw": "{\"url\": \"https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Multistorey-Apartment-FOR-Sale-Worli-in-Mumbai&id=4d423833373136353533\", \"property_id\": \"4d423833373136353533\", \"name\": \"3 BHK 1300 Sqft Flat  For Sale  Worli, Mumbai\", \"description\": \"You can buy 1300 Sqft 3 BHK Flat for Sale in Techno Aakasa Worli in Mumbai at the price of 10.27 Cr. Unfurnished ✓ 16(Out of 33) floor ✓ 27.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>\", \"price\": 102700000.0, \"price_currency\": \"INR\", \"availability\": \"https://schema.org/InStock\", \"locality\": \"Worli\", \"region\": \"Mumbai\", \"country\": \"IN\", \"latitude\": 19.0036486667054, \"longitude\": 72.8175254882335, \"bedrooms\": 3, \"bathrooms\": 3, \"floor_size_label\": null, \"carpet_area\": \"1300 sqft\", \"transaction_type\": \"New Property\", \"status\": null, \"facing\": null, \"furnished_status\": \"Unfurnished\", \"car_parking\": \"2 Covered\", \"ownership_type\": null, \"developer\": \"Techno Freshworld LLP\", \"project_name\": \"Techno Aakasa\", \"possession_note\": null, \"lifts\": null, \"rera_ids\": [\"P51900050463\"], \"amenities\": [{\"name\": \"Parking\", \"value\": \"2 Covered\"}, {\"name\": \"Furnishing\", \"value\": \"Unfurnished\"}], \"image_url\": \"https://img.staticmb.com/mbphoto/property/cropped_images/2026/Mar/10/Photo_h600_w900/83716553_4_creenshot20260310134939_600_900.jpg\", \"date_posted\": \"Apr 24, '2026\", \"seller_type\": null, \"scraped_at\": \"2026-04-24T23:28:56.469129+00:00\", \"error\": null}",
+      "scraped_at": "2026-04-24T23:28:56.469129+00:00",
+      "last_seen_at": "2026-04-25T16:46:48.806779+00:00",
+      "contact": "+91-98765-43210",
+      "broker_name": "Estra Verified Partner",
+      "developer_name": "3 Group",
+      "address": "Worli, Mumbai",
+      "description": "You can buy 1300 Sqft 3 BHK Flat for Sale in Techno Aakasa Worli in Mumbai at the price of 10.27 Cr. Unfurnished ✓ 16(Out of 33) floor ✓ 27.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>",
+      "floor_level": null,
+      "rera_number": null,
+      "amenities": [
+        {
+          "name": "Parking",
+          "value": "2 Covered"
+        },
+        {
+          "name": "Furnishing",
+          "value": "Unfurnished"
+        }
+      ],
+      "facing": null,
+      "project_age": null,
+      "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1300-Sq-ft-Multistorey-Apartment-FOR-Sale-Worli-in-Mumbai&id=4d423833373136353533"
+    },
+    "area_context": {
+      "area_name": "Worli",
+      "city": "Mumbai",
+      "trend_1yr_pct": 10.1,
+      "trend_3yr_pct": 26.3,
+      "trend_5yr_pct": 37.9,
+      "latest_psf": 68950.0,
+      "rental_yield_pct": null,
+      "downside_risk_score": 30.23,
+      "uplift_potential_score": 100.0,
+      "infra_impact_score": 71.15,
+      "liquidity_demand_score": 7.0,
+      "historical_trend_score": 100.0,
+      "legal_safety_score": 85.0,
+      "market_momentum_score": 98.29,
+      "news_relevance_score": 94.0,
+      "volatility_index": 0.0569
+    },
+    "graph_context": {
+      "subject": {
+        "id": "c3712518-36b7-4cb4-b617-6b294d241ad3",
+        "title": "3 BHK 1300 Sqft Flat  For Sale  Worli, Mumbai",
+        "locality_text": "Worli",
+        "city": "Mumbai",
+        "bedrooms": 3,
+        "area_sqft": 1300.0,
+        "price_inr": 102700000.0,
+        "price_per_sqft": 79000.0
+      },
+      "area_peers": [
+        {
+          "id": "a1b071ae-b8f0-4d02-b4d0-4ec0427a3292",
+          "title": "2 BHK 576 Sqft Flat  For Sale in Poonam Apartments, Worli, Mumbai",
+          "locality_text": "Worli",
+          "city": "Mumbai",
+          "bedrooms": 2,
+          "area_sqft": 576.0,
+          "price_inr": 45000000.0,
+          "price_per_sqft": 78125.0
+        },
+        {
+          "id": "7163b9ef-24ff-4858-a074-3dadcb32128c",
+          "title": "5 BHK 4750 Sqft Flat  For Sale  Worli, Mumbai",
+          "locality_text": "Worli",
+          "city": "Mumbai",
+          "bedrooms": 5,
+          "area_sqft": 4750.0,
+          "price_inr": 379900000.0,
+          "price_per_sqft": 79978.95
+        },
+        {
+          "id": "534806a9-a2af-4bd4-9bb7-28f9e10cb47c",
+          "title": "4 BHK 1895 Sqft Flat  For Sale  Worli, Mumbai",
+          "locality_text": "Worli",
+          "city": "Mumbai",
+          "bedrooms": 4,
+          "area_sqft": 1895.0,
+          "price_inr": 151600000.0,
+          "price_per_sqft": 80000.0
+        },
+        {
+          "id": "c33d4dc8-2f94-423a-80f1-912e5f963a0a",
+          "title": "5 BHK 2278 Sqft Flat  For Sale  Worli, Mumbai",
+          "locality_text": "Worli",
+          "city": "Mumbai",
+          "bedrooms": 5,
+          "area_sqft": 2278.0,
+          "price_inr": 183000000.0,
+          "price_per_sqft": 80333.63
+        },
+        {
+          "id": "36f33117-7b57-4962-81f8-4cb8cba431e9",
+          "title": "2 BHK 584 Sqft Flat  For Sale in Chandak Cornerstone, Worli, Mumbai",
+          "locality_text": "Worli",
+          "city": "Mumbai",
+          "bedrooms": 2,
+          "area_sqft": 584.0,
+          "price_inr": 45000000.0,
+          "price_per_sqft": 77054.79
+        }
+      ],
+      "same_developer_peers": [
+        {
+          "id": "53a06b37-8b82-4c75-a92a-6fd283c0e0ad",
+          "title": "3 BHK Flat in Anand Park, Aundh",
+          "locality_text": "Aundh, Anand Park, Aundh",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1100.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "d7081870-2704-4c9b-88bf-21650aeb13f5",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1601.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "7224e23d-68a3-4f7f-9aef-fe9fd798cadc",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1473.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "69bfc59a-f7e0-495d-9629-cefddee2b91f",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1549.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "a7f02b09-9619-495f-886a-13342990d6f7",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1518.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        }
+      ],
+      "similar_listings": [
+        {
+          "id": "59b6bc20-3ac8-445a-8762-9748db82c2d8",
+          "title": "3 BHK 1955 Sqft Flat  For Sale in Bombay Realty Island City Center ICC 1 and 2, Dadar East, Mumbai",
+          "locality_text": "Dadar East",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1955.0,
+          "price_inr": 102763000.0,
+          "price_per_sqft": 52564.19
+        },
+        {
+          "id": "a9f0e01a-8946-4d0c-b8cd-e6ad911a51b7",
+          "title": "3 BHK 1578 Sqft Flat  For Sale  JVPD Scheme, Mumbai",
+          "locality_text": "JVPD Scheme",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1578.0,
+          "price_inr": 102500000.0,
+          "price_per_sqft": 64955.64
+        },
+        {
+          "id": "dcc0c4ac-3042-4841-a621-1f2664b27958",
+          "title": "3 BHK 2918 Sqft Flat  For Sale  Lower Parel, Mumbai",
+          "locality_text": "Lower Parel",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 2918.0,
+          "price_inr": 102500000.0,
+          "price_per_sqft": 35126.8
+        },
+        {
+          "id": "df94f3d3-6f51-4242-8d31-bfd982ab81d9",
+          "title": "3 BHK 1800 Sqft Flat  For Sale   Hiranandani Gardens, Mumbai",
+          "locality_text": "Hiranandani Gardens",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1800.0,
+          "price_inr": 103000000.0,
+          "price_per_sqft": 57222.22
+        },
+        {
+          "id": "929ff376-8310-4856-85bc-df5b617657b5",
+          "title": "3 BHK 2065 Sqft Flat  For Sale  Lower Parel, Mumbai",
+          "locality_text": "Lower Parel",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 2065.0,
+          "price_inr": 103300000.0,
+          "price_per_sqft": 50024.21
+        }
+      ],
+      "price_position": {
+        "subject_psf": 79000.0,
+        "area_median_psf": 62500.0,
+        "delta_pct": 26.4,
+        "label": "above_area_median",
+        "peer_count": 169
+      },
+      "developer_context": {
+        "name": "3",
+        "known_project_count": 6068,
+        "locality_count": 479
+      },
+      "relationship_notes": [
+        "Priced 26.4% above the median PSF of 169 comparable listings in the same locality.",
+        "Developer '3' appears in 6068 cached listings across 479 locality clusters.",
+        "5 same-BHK listing(s) within ±20% of this price found across the cache."
+      ]
+    },
+    "verdict": "NEUTRAL",
+    "narrative": "AI analysis temporarily unavailable for 3 BHK 1300 Sqft Flat  For Sale  Worli, Mumbai. Below are the raw property and area metrics for your review.",
+    "sections": {
+      "property_overview": "3 BHK in 3 BHK 1300 Sqft Flat  For Sale  Worli, Mumbai, Worli. Price: ₹102700000.0 (₹79000.0/sqft).",
+      "area_investment_context": "Worli area PSF: ₹68950.0. Trends and scores available in area_context below.",
+      "value_analysis": "Please compare property PSF to area PSF manually.",
+      "risk_compliance": "RERA: NOT VERIFIED",
+      "developer_project_quality": "Verify developer credentials on MahaRERA.",
+      "amenities_lifestyle": "Amenities not analyzed.",
+      "final_recommendation": "AI generation failed — review data below and make an independent assessment."
+    },
+    "action_items": [
+      "Review property and area data below",
+      "Verify RERA status on MahaRERA",
+      "Visit site before making a decision"
+    ],
+    "key_highlights": [
+      "AI analysis unavailable"
+    ],
+    "investment_thesis": "Unable to generate thesis — AI service temporarily down."
+  },
+  "6a0bdb51-70fc-49b3-8103-24c0c6df5631": {
+    "property_id": "6a0bdb51-70fc-49b3-8103-24c0c6df5631",
+    "property": {
+      "id": "6a0bdb51-70fc-49b3-8103-24c0c6df5631",
+      "source": "magicbricks_2026_04",
+      "external_id": "4d423730343132383335",
+      "listing_type": "sale",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "locality_text": "Seawoods",
+      "title": "3 BHK 1175 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+      "bedrooms": 3,
+      "bathrooms": 3,
+      "area_sqft": 1175.0,
+      "price_inr": 37500000.0,
+      "price_per_sqft": 31914.89,
+      "raw": "{\"url\": \"https://www.magicbricks.com/propertyDetails/3-BHK-1880-Sq-ft-Multistorey-Apartment-FOR-Sale-Seawoods-in-Navi-Mumbai&id=4d423730343132383335\", \"property_id\": \"4d423730343132383335\", \"name\": \"3 BHK 1175 Sqft Flat  For Sale  Seawoods, Navi Mumbai\", \"description\": \"You can buy 1175 Sqft 3 BHK Flat for Sale in L and T Realty Seawoods West Square Seawoods in Navi Mumbai at the price of 3.75 Cr. Unfurnished ✓ 14(Out of 18) floor ✓ 3.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>\", \"price\": 37500000.0, \"price_currency\": \"INR\", \"availability\": \"https://schema.org/InStock\", \"locality\": \"Seawoods\", \"region\": \"Navi Mumbai\", \"country\": \"IN\", \"latitude\": 19.0134923674099, \"longitude\": 73.0176711021806, \"bedrooms\": 3, \"bathrooms\": 3, \"floor_size_label\": \"1880 FTK\", \"carpet_area\": \"1175 sqft\", \"transaction_type\": \"New Property\", \"status\": null, \"facing\": \"North - East\", \"furnished_status\": \"Unfurnished\", \"car_parking\": null, \"ownership_type\": null, \"developer\": \"L & T Realty\", \"project_name\": \"L and T Realty Seawoods West Square\", \"possession_note\": null, \"lifts\": \"3\", \"rera_ids\": [\"P51700045793\"], \"amenities\": [{\"name\": \"Parking\", \"value\": \"1 Covered\"}, {\"name\": \"Lift\", \"value\": \"3\"}, {\"name\": \"Flooring\", \"value\": \"Vitrified\"}, {\"name\": \"Furnishing\", \"value\": \"Unfurnished\"}, {\"name\": \"Additional Rooms\", \"value\": \"None of these\"}], \"image_url\": \"https://img.staticmb.com/mbphoto/property/cropped_images/2023/Dec/11/Photo_h600_w900/70412835_8_ed3_600_900.jpg\", \"date_posted\": \"Apr 24, '2026\", \"seller_type\": null, \"scraped_at\": \"2026-04-25T01:40:22.955007+00:00\", \"error\": null}",
+      "scraped_at": "2026-04-25T01:40:22.955007+00:00",
+      "last_seen_at": "2026-04-25T16:46:49.047872+00:00",
+      "contact": "+91-98765-43210",
+      "broker_name": "Estra Verified Partner",
+      "developer_name": "3 Group",
+      "address": "Seawoods, Navi Mumbai",
+      "description": "You can buy 1175 Sqft 3 BHK Flat for Sale in L and T Realty Seawoods West Square Seawoods in Navi Mumbai at the price of 3.75 Cr. Unfurnished ✓ 14(Out of 18) floor ✓ 3.0 Lac Booking Amount ✓ 3 Beds ✓ 3 Baths. Click the page to know more >>",
+      "floor_level": null,
+      "rera_number": null,
+      "amenities": [
+        {
+          "name": "Parking",
+          "value": "1 Covered"
+        },
+        {
+          "name": "Lift",
+          "value": "3"
+        },
+        {
+          "name": "Flooring",
+          "value": "Vitrified"
+        },
+        {
+          "name": "Furnishing",
+          "value": "Unfurnished"
+        },
+        {
+          "name": "Additional Rooms",
+          "value": "None of these"
+        }
+      ],
+      "facing": "North - East",
+      "project_age": null,
+      "url": "https://www.magicbricks.com/propertyDetails/3-BHK-1880-Sq-ft-Multistorey-Apartment-FOR-Sale-Seawoods-in-Navi-Mumbai&id=4d423730343132383335"
+    },
+    "area_context": {
+      "area_name": "Seawoods",
+      "city": "Navi Mumbai",
+      "trend_1yr_pct": null,
+      "trend_3yr_pct": null,
+      "trend_5yr_pct": null,
+      "latest_psf": null,
+      "rental_yield_pct": null,
+      "downside_risk_score": 12.53,
+      "uplift_potential_score": 97.5,
+      "infra_impact_score": 78.8,
+      "liquidity_demand_score": null,
+      "historical_trend_score": 100.0,
+      "legal_safety_score": 85.0,
+      "market_momentum_score": 92.48,
+      "news_relevance_score": 94.0,
+      "volatility_index": 0.2506
+    },
+    "graph_context": {
+      "subject": {
+        "id": "6a0bdb51-70fc-49b3-8103-24c0c6df5631",
+        "title": "3 BHK 1175 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+        "locality_text": "Seawoods",
+        "city": "Navi Mumbai",
+        "bedrooms": 3,
+        "area_sqft": 1175.0,
+        "price_inr": 37500000.0,
+        "price_per_sqft": 31914.89
+      },
+      "area_peers": [
+        {
+          "id": "84518a32-b808-4f16-b0ad-a8401b20efed",
+          "title": "2 BHK 850 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+          "locality_text": "Seawoods",
+          "city": "Navi Mumbai",
+          "bedrooms": 2,
+          "area_sqft": 850.0,
+          "price_inr": 27500000.0,
+          "price_per_sqft": 32352.94
+        },
+        {
+          "id": "7899ecc8-bc49-4a15-8d17-496dedeb80ee",
+          "title": "3 BHK 1320 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+          "locality_text": "Seawoods",
+          "city": "Navi Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1320.0,
+          "price_inr": 41079000.0,
+          "price_per_sqft": 31120.45
+        },
+        {
+          "id": "6cc1457e-ac25-4a85-a870-d0d7d71d2c5b",
+          "title": "3 BHK 1380 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+          "locality_text": "Seawoods",
+          "city": "Navi Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1380.0,
+          "price_inr": 42946000.0,
+          "price_per_sqft": 31120.29
+        },
+        {
+          "id": "b66dd714-597f-4049-8c58-cead7d73431e",
+          "title": "4 BHK 1690 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+          "locality_text": "Seawoods",
+          "city": "Navi Mumbai",
+          "bedrooms": 4,
+          "area_sqft": 1690.0,
+          "price_inr": 52593000.0,
+          "price_per_sqft": 31120.12
+        },
+        {
+          "id": "a46f5d82-a1d8-4aab-b1dd-abae57a72b7f",
+          "title": "5 BHK 2981 Sqft Flat  For Sale  Seawoods, Navi Mumbai",
+          "locality_text": "Seawoods",
+          "city": "Navi Mumbai",
+          "bedrooms": 5,
+          "area_sqft": 2981.0,
+          "price_inr": 92769000.0,
+          "price_per_sqft": 31120.09
+        }
+      ],
+      "same_developer_peers": [
+        {
+          "id": "53a06b37-8b82-4c75-a92a-6fd283c0e0ad",
+          "title": "3 BHK Flat in Anand Park, Aundh",
+          "locality_text": "Aundh, Anand Park, Aundh",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1100.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "d7081870-2704-4c9b-88bf-21650aeb13f5",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1601.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "7224e23d-68a3-4f7f-9aef-fe9fd798cadc",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1473.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "69bfc59a-f7e0-495d-9629-cefddee2b91f",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1549.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        },
+        {
+          "id": "a7f02b09-9619-495f-886a-13342990d6f7",
+          "title": "3 BHK Flat in Aundh, Pune",
+          "locality_text": "Aundh, Aundh, Pune",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1518.0,
+          "price_inr": null,
+          "price_per_sqft": null
+        }
+      ],
+      "similar_listings": [
+        {
+          "id": "4fbfd107-204c-414e-8573-6b812b5c2ce9",
+          "title": "3 BHK 1800 Sqft Flat  For Sale  Sector 23 Kharghar, Navi Mumbai",
+          "locality_text": "Sector 23 Kharghar",
+          "city": "Navi Mumbai",
+          "bedrooms": 3,
+          "area_sqft": null,
+          "price_inr": 37500000.0,
+          "price_per_sqft": null
+        },
+        {
+          "id": "30d3e1fc-928e-488e-b00c-23c711228dce",
+          "title": "3 BHK 1700 Sqft Flat  For Sale  Baner, Pune",
+          "locality_text": "Baner",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1700.0,
+          "price_inr": 37500000.0,
+          "price_per_sqft": 22058.82
+        },
+        {
+          "id": "a38c4d74-43da-4473-a5fd-7c6b1d0750e5",
+          "title": "3 BHK 1084 Sqft Flat  For Sale  Goregaon West, Mumbai",
+          "locality_text": "Goregaon West",
+          "city": "Mumbai",
+          "bedrooms": 3,
+          "area_sqft": 1084.0,
+          "price_inr": 37500000.0,
+          "price_per_sqft": 34594.1
+        },
+        {
+          "id": "7c9ec806-36b0-40f9-98e6-d05faee51a27",
+          "title": "3 BHK 3102 Sqft Flat  For Sale in Gagan 33, Baner, Pune",
+          "locality_text": "Baner",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 3102.0,
+          "price_inr": 37500000.0,
+          "price_per_sqft": 12088.97
+        },
+        {
+          "id": "41229962-3f78-4ac2-a505-7591ca7cfa4a",
+          "title": "3 BHK 1637 Sqft Flat  For Sale in Belvedere Apartment, Aundh, Pune",
+          "locality_text": "Aundh",
+          "city": "Pune",
+          "bedrooms": 3,
+          "area_sqft": 1637.0,
+          "price_inr": 37500000.0,
+          "price_per_sqft": 22907.76
+        }
+      ],
+      "price_position": {
+        "subject_psf": 31914.89,
+        "area_median_psf": 31120.1,
+        "delta_pct": 2.55,
+        "label": "near_area_median",
+        "peer_count": 62
+      },
+      "developer_context": {
+        "name": "3",
+        "known_project_count": 6068,
+        "locality_count": 479
+      },
+      "relationship_notes": [
+        "Priced within ±10% of the median PSF of 62 comparable listings in the same locality.",
+        "Developer '3' appears in 6068 cached listings across 479 locality clusters.",
+        "5 same-BHK listing(s) within ±20% of this price found across the cache."
+      ]
+    },
+    "verdict": "NEUTRAL",
+    "narrative": "This 3 BHK flat in Seawoods, Navi Mumbai, presents a mixed investment profile. The area itself demonstrates strong underlying potential, evidenced by high scores in Uplift Potential (97.5), Historical Trend (100.0), and Market Momentum (92.48), along with robust Infrastructure Impact (78.8). The property's PSF is only marginally above the area median, which would typically be a positive indicator in a high-growth zone.\n\nHowever, significant red flags and data gaps prevent a positive recommendation. The RERA status is explicitly 'NOT VERIFIED,' which is a critical compliance issue requiring immediate resolution. Furthermore, the Legal Safety score is elevated at 85.0, indicating higher inherent legal risks associated with the property or project. The developer name '3 Group' appears generic, raising questions about credibility and track record.\n\nCrucially, essential financial metrics for the area, such as 1-year, 3-year, and 5-year price trends, average PSF, rental yield, and liquidity scores, are all missing. Without this data, a comprehensive financial assessment of the investment's viability and potential returns is impossible. The absence of project age also hinders an evaluation of construction quality and remaining lifespan.\n\nTherefore, while the location's macro indicators are strong, the specific property carries too many unverified risks and unknowns. It is not advisable to proceed without thorough due diligence on RERA compliance, developer credentials, and a complete understanding of the area's financial performance and liquidity. This is a property to approach with extreme caution.",
+    "sections": {
+      "property_overview": "This is a 3 BHK flat with 3 baths and a carpet area of 1175 sqft in Seawoods, Navi Mumbai. The asking price is ₹3.75 crores, translating to ₹31914.89/sqft. The unit faces North - East. Floor level and project age are not specified.",
+      "area_investment_context": "Seawoods, Navi Mumbai, shows strong underlying potential with an Uplift Potential score of 97.5, Infrastructure Impact at 78.8, Historical Trend at 100.0, and Market Momentum at 92.48. News Relevance is also high at 94.0. However, specific 1-year, 3-year, and 5-year price trends, area average PSF, and rental yield data are not provided, making a direct comparison difficult.",
+      "value_analysis": "The property's PSF of ₹31914.89 is 2.55% above the locality median of ₹31120.1. This slight premium is acceptable given the high Uplift Potential (97.5) and Market Momentum (92.48) scores for the area. Without specific price trend data, it's hard to assess if this premium reflects recent growth or future expectations.",
+      "risk_compliance": "The RERA status is NOT VERIFIED; this is a critical red flag requiring immediate verification on MahaRERA. The Legal Safety score is 85.0, which is elevated and indicates higher legal risk. Downside Risk is low at 12.53, and Volatility Index is low at 0.2506, but Liquidity & Demand data is missing, which is a concern for exit strategy.",
+      "developer_project_quality": "The developer is listed as '3 Group,' which appears to be a generic name; verification on MahaRERA is essential. The project age is not specified, so an on-site inspection is necessary to assess construction quality and current project status.",
+      "amenities_lifestyle": "The property includes 1 covered parking space, 3 lifts, and vitrified flooring, and is unfurnished. Essential investment amenities like security, power backup, and a clubhouse are not explicitly listed. These should be verified during a site visit.",
+      "final_recommendation": "NEUTRAL. While the Seawoods area shows strong growth potential, the property itself carries significant unverified risks, particularly the RERA status and elevated legal safety score. A hold period cannot be recommended without resolving these fundamental issues and gathering missing financial data."
+    },
+    "action_items": [
+      "Verify RERA registration status and details for 'L and T Realty Seawoods West Square' on MahaRERA.",
+      "Investigate '3 Group' developer's track record and financial stability, cross-referencing with MahaRERA.",
+      "Conduct a physical site visit to assess project age, construction quality, and confirm all amenities (security, power backup, clubhouse).",
+      "Obtain specific 1-year, 3-year, 5-year price trends, area average PSF, rental yield, and liquidity scores for Seawoods."
+    ],
+    "key_highlights": [
+      "Strong area scores (Uplift 97.5, Market Momentum 92.48, Infrastructure 78.8).",
+      "Property PSF of ₹31914.89 is 2.55% above locality median.",
+      "RERA status is NOT VERIFIED; Legal Safety score is elevated at 85.0.",
+      "Critical area data (price trends, rental yield, liquidity) and project age are missing.",
+      "Developer name '3 Group' appears generic, requiring verification."
+    ],
+    "investment_thesis": "One-liner: This property is a NEUTRAL due to strong area fundamentals offset by critical missing data and unverified RERA status."
+  }
+}

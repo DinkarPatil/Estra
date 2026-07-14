@@ -1,0 +1,458 @@
+[
+  {
+    "project_name": "Rustomjee Vista Bay",
+    "builder_name": "Rustomjee",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Sewri",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Shelton Elite",
+    "builder_name": "Shelton Groups",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Juhu",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Gurukrupa Alaknanda",
+    "builder_name": "Gurukrupa Realcon Lifespaces LLP",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Juhu",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Adani Airica",
+    "builder_name": "Adani Realty",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Bhandup West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Lodha Park",
+    "builder_name": "Lodha Developers Limited",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Worli",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Suraj Park View",
+    "builder_name": "Suraj Estate Developers",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Dadar West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Chandak Greenairy",
+    "builder_name": "Chandak Group",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Borivali East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Jaydeep Mark",
+    "builder_name": "Jaydeep Realspace LLP",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Mulund East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Raymond The Address By GS",
+    "builder_name": "Raymond Realty",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Wadala",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Lodha Altus",
+    "builder_name": "Lodha Group",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Borivali West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Godrej Reserve",
+    "builder_name": "Godrej Properties",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Kandivali East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Chandak Sarvam",
+    "builder_name": "Chandak Realtors Private Limited",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Andheri East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Disha Elysium",
+    "builder_name": "Disha Construction",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Andheri West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Raymond Invictus by GS",
+    "builder_name": "Raymond Realty",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Bandra East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Shreeji Sky Rise Tower",
+    "builder_name": "Shreeji Construction",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Kandivali West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Purva Clermont",
+    "builder_name": "Puravankara Ltd.",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Chembur",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Shree Ram Krishna Garden",
+    "builder_name": "Shree Salasar Sahakar",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Mira Road East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Astrum Athena",
+    "builder_name": "Astrum Developers",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Andheri West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Godrej Avenue Eleven",
+    "builder_name": "Godrej Properties",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Mahalakshmi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Puravankara Purva Estrella",
+    "builder_name": "Puravankara Ltd.",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Andheri West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Adani Linkbay Residences",
+    "builder_name": "Adani Realty & RC Group",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Andheri West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Dosti Acres",
+    "builder_name": "DOSTI REALTY",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Wadala",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Transcon Auris Serenity",
+    "builder_name": "Transcon Developers and Sheth Creators",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Malad West",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "ACE Rushi Vihar NX",
+    "builder_name": "ACE Realty",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Virar East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Runwal Woods",
+    "builder_name": "Runwal Enterprises",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Chembur",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "32 West View",
+    "builder_name": "Konark Developers",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Borivali",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "K D Sayba Swarna",
+    "builder_name": "K D Constructions",
+    "city": "Mumbai",
+    "state": "Maharashtra",
+    "locality_text": "Kurla East",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Lodha Estilo",
+    "builder_name": "Lodha Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Kharadi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Saheel Luxton",
+    "builder_name": "Saheel Properties",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Wakad",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Pethkar Siyona",
+    "builder_name": "Pethkar Projects",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Punawale",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Godrej Ivara",
+    "builder_name": "Godrej Properties",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Kharadi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Unique Youtopia",
+    "builder_name": "Unique Properties",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Kharadi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Pinewood Phase II",
+    "builder_name": "Sainath Buildcon",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Baner",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Nivasa Elevia",
+    "builder_name": "Nivasa Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Keshav Nagar Mundhwa",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Euphoric Park Land Homes Ii",
+    "builder_name": "Euphoric Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Bhagwan Tatyasaheb Kawade Road",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Tayal Corp K City",
+    "builder_name": "Tayal Corp",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Mundhwa",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Sagitarius Bluegrass Residences",
+    "builder_name": "Sagitarius Ecospaces LLP",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Yerawada",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Tayal Corp K Pune",
+    "builder_name": "Tayal Corp",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Bavdhan",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Nyati Emerald",
+    "builder_name": "Nyati Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Baner",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Eka The Arka Residences",
+    "builder_name": "EKA Buildcon",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Kothrud",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Godrej Elaris",
+    "builder_name": "Godrej Properties",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Mundhwa",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Miami A6 A7 B1",
+    "builder_name": "Pride Builders LLP",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Charholi BK",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Malpani M Soul Strings",
+    "builder_name": "Malpani Estates",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Pashan",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Aditya Vivaaz",
+    "builder_name": "Aditya Builders",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Ravet",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Kakade Le Skylark",
+    "builder_name": "Kakade Green Estates Private Limited",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Karvenagar",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Landmarkk Luxuria",
+    "builder_name": "Landmarkk Townships",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Dudulgaon",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Kolte Patil 24K Altura",
+    "builder_name": "Kolte Patil Developers Ltd.",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Baner",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Enerrgia Skyi PWC Tigers Nest",
+    "builder_name": "Enerrgia Skyi Developers",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Bhugaon",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Kumar Parth Towers",
+    "builder_name": "Kumar Properties",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Baner",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Palm Drive",
+    "builder_name": "Ram India Corp",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Kharadi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Harivishva Skyfinia",
+    "builder_name": "Harivishva Developers",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Tathawade Pimpri Chinchwad",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Majestique Signature Towers",
+    "builder_name": "Majestique Landmarks",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Balewadi",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Basil Maximus",
+    "builder_name": "Basil Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Punawale",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Nyati Esteban II",
+    "builder_name": "Nyati Group",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Undri",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Kolte Patil Life Republic Qrious",
+    "builder_name": "Kolte Patil Developers Ltd.",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Jambhe",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "VJ Yashwin Urbo Centro",
+    "builder_name": "Vilas Javdekar Infinitee Developers Pvt Ltd",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Wakad",
+    "source": "magicbricks"
+  },
+  {
+    "project_name": "Livience Unione",
+    "builder_name": "Livience Lifespace Private Limited",
+    "city": "Pune",
+    "state": "Maharashtra",
+    "locality_text": "Baner",
+    "source": "magicbricks"
+  }
+]

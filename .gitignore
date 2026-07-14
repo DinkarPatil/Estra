@@ -1,0 +1,111 @@
+# Dependencies
+node_modules/
+.pnp
+.pnp.js
+
+# Next.js
+.next/
+out/
+
+# TypeScript
+*.tsbuildinfo
+
+# Build
+build/
+dist/
+
+# ── Environment (CRITICAL — never commit secrets) ────────────────────────
+.env
+.env.local
+.env*.local
+.env.staging
+.env.production
+
+# Backend
+backend/venv/
+backend/.venv/
+backend/env/
+backend/.env
+backend/*.db
+backend/*.db-journal
+backend/glimmora.db
+backend/data/exports/lead_snapshot.db
+backend/__pycache__/
+backend/**/__pycache__/
+backend/.pytest_cache/
+backend/**/.pytest_cache/
+backend/.mypy_cache/
+backend/.ruff_cache/
+backend/htmlcov/
+backend/.coverage
+backend/coverage.xml
+backend/scraper_bundle/
+
+# Debug
+npm-debug.log*
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.egg-info/
+.eggs/
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+
+# Virtual envs (anywhere in the tree)
+venv/
+.venv/
+env/
+ENV/
+
+# Claude / AI tool configs (may contain local filesystem paths)
+.claude/settings.json
+.claude/settings.local.json
+
+# Docs — may contain internal specs, SOWs, personal notes
+Docs/
+*.docx
+GEMINI.md
+
+# Data that should not be in public repo
+codedb.snapshot
+glimmora.db
+
+# OSM source extracts and derived caches — too large for git, derivable
+# from geofabrik.de downloads + the osm_local scraper.
+backend/*.osm.pbf
+backend/data/osm/
+# Note: other subdirs under backend/data/ (e.g. exports/, seed_properties/)
+# ARE committed — they're small and intentionally shared with the team.
+
+# Scraper run logs and raw MagicBricks JSONL — too large / regenerable
+backend/logs/
+backend/data/exports/magicbricks/
+backend/demo_flow.py
+frontend/
+.vercel/
+
+# Sensitive credential files — never commit
+*.pem
+*.key
+*.p12
+*.pfx
+*.jks
+*.keystore
+*-service-account*.json
+*-sa.json
+*credentials*.json

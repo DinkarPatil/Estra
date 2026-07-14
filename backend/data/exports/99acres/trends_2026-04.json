@@ -1,0 +1,2277 @@
+[
+  {
+    "locality": "Kalyani Nagar",
+    "latest_psf": 15000.0,
+    "trend_1yr": 9.5,
+    "trend_3yr": 41.5,
+    "trend_5yr": 71.4,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 13100
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 12800
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 13000
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 13700
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 13950
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 14250
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 14700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 15000
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:43.356595+00:00",
+    "area_name": "Kalyani Nagar",
+    "city": "Pune"
+  },
+  {
+    "locality": "Viman Nagar",
+    "latest_psf": 12400.0,
+    "trend_1yr": 3.8,
+    "trend_3yr": 34.1,
+    "trend_5yr": 55.0,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 10550
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10950
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 11300
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 11950
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 11550
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 11650
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 12400
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 12400
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:42.697423+00:00",
+    "area_name": "Viman Nagar",
+    "city": "Pune"
+  },
+  {
+    "locality": "Kharadi",
+    "latest_psf": 10950.0,
+    "trend_1yr": 6.3,
+    "trend_3yr": 34.4,
+    "trend_5yr": 49.0,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9500
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10000
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 10400
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 10300
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 10450
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 10750
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 10700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 10950
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:42.828957+00:00",
+    "area_name": "Kharadi",
+    "city": "Pune"
+  },
+  {
+    "locality": "Hadapsar",
+    "latest_psf": 10250.0,
+    "trend_1yr": 15.2,
+    "trend_3yr": 46.4,
+    "trend_5yr": 48.6,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 7850
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 7450
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 9550
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 8900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 8600
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9550
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 10650
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 10250
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:43.265321+00:00",
+    "area_name": "Hadapsar",
+    "city": "Pune"
+  },
+  {
+    "locality": "Magarpatta",
+    "latest_psf": 13250.0,
+    "trend_1yr": 7.3,
+    "trend_3yr": 37.3,
+    "trend_5yr": 58.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 10850
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 11550
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 11950
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 12350
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 12750
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 12650
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 13000
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 13250
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:43.686965+00:00",
+    "area_name": "Magarpatta",
+    "city": "Pune"
+  },
+  {
+    "locality": "Hinjewadi",
+    "latest_psf": 8400.0,
+    "trend_1yr": 2.4,
+    "trend_3yr": 27.3,
+    "trend_5yr": 48.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 7500
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 7600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 7800
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 8200
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 8050
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 8200
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 8600
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 8400
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:46.580170+00:00",
+    "area_name": "Hinjewadi",
+    "city": "Pune"
+  },
+  {
+    "locality": "Baner",
+    "latest_psf": 11550.0,
+    "trend_1yr": -1.7,
+    "trend_3yr": 35.1,
+    "trend_5yr": 55.0,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9800
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10300
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 10650
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 11750
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 10800
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 11000
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 11100
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 11550
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:46.831910+00:00",
+    "area_name": "Baner",
+    "city": "Pune"
+  },
+  {
+    "locality": "Wakad",
+    "latest_psf": 9250.0,
+    "trend_1yr": 3.9,
+    "trend_3yr": 31.2,
+    "trend_5yr": 45.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 7550
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 7600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 8200
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 8900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 8750
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 8850
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9050
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 9250
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:46.484549+00:00",
+    "area_name": "Wakad",
+    "city": "Pune"
+  },
+  {
+    "locality": "Aundh",
+    "latest_psf": 11350.0,
+    "trend_1yr": -5.8,
+    "trend_3yr": 16.4,
+    "trend_5yr": 30.5,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 10750
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10900
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 11150
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 12050
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 11150
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 12200
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 11700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 11350
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:47.568221+00:00",
+    "area_name": "Aundh",
+    "city": "Pune"
+  },
+  {
+    "locality": "Pimple Saudagar",
+    "latest_psf": 9250.0,
+    "trend_1yr": -1.1,
+    "trend_3yr": 23.3,
+    "trend_5yr": 32.1,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 8150
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 8500
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 8600
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 9350
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 9150
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9250
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9150
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 9250
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:47.614522+00:00",
+    "area_name": "Pimple Saudagar",
+    "city": "Pune"
+  },
+  {
+    "locality": "Kothrud",
+    "latest_psf": 13600.0,
+    "trend_1yr": -8.7,
+    "trend_3yr": 8.8,
+    "trend_5yr": 41.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 13150
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 13200
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 13100
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 14900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 13800
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 13950
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 13650
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 13600
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:50.643230+00:00",
+    "area_name": "Kothrud",
+    "city": "Pune"
+  },
+  {
+    "locality": "Shivaji Nagar",
+    "latest_psf": 17800.0,
+    "trend_1yr": 1.4,
+    "trend_3yr": 13.0,
+    "trend_5yr": 17.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 16650
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 16650
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 15950
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 17550
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 16500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 17950
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 17750
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 17800
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:50.494034+00:00",
+    "area_name": "Shivaji Nagar",
+    "city": "Pune"
+  },
+  {
+    "locality": "Koregaon Park",
+    "latest_psf": 17000.0,
+    "trend_1yr": 6.6,
+    "trend_3yr": 45.9,
+    "trend_5yr": 49.1,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 14300
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 15300
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 16200
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 15950
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 15950
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 15500
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 16550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 17000
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:50.537176+00:00",
+    "area_name": "Koregaon Park",
+    "city": "Pune"
+  },
+  {
+    "locality": "Camp",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [
+      {
+        "quarter": "Oct-Dec, 2022",
+        "psf": 8750
+      },
+      {
+        "quarter": "Jan-Mar, 2023",
+        "psf": 9350
+      },
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9400
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10000
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 9650
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 11650
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 10550
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9100
+      }
+    ],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:18:51.153629+00:00",
+    "area_name": "Camp",
+    "city": "Pune"
+  },
+  {
+    "locality": "Sus ",
+    "latest_psf": 7750.0,
+    "trend_1yr": -1.3,
+    "trend_3yr": 16.5,
+    "trend_5yr": 39.6,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 6950
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 7150
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 7250
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 7850
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 7150
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 7600
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 7500
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 7750
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:51.282606+00:00",
+    "area_name": "Sus",
+    "city": "Pune"
+  },
+  {
+    "locality": "Balewadi",
+    "latest_psf": 10900.0,
+    "trend_1yr": 0.0,
+    "trend_3yr": 28.2,
+    "trend_5yr": 45.3,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9650
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 10000
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 10250
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 10900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 10550
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 10500
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 10600
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 10900
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:53.936869+00:00",
+    "area_name": "Balewadi",
+    "city": "Pune"
+  },
+  {
+    "locality": "Pashan",
+    "latest_psf": 10300.0,
+    "trend_1yr": 0.5,
+    "trend_3yr": 40.1,
+    "trend_5yr": 66.1,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9200
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 9500
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 9650
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 10250
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 9550
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9900
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 10300
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:53.984703+00:00",
+    "area_name": "Pashan",
+    "city": "Pune"
+  },
+  {
+    "locality": "Pimpri Chinchwad",
+    "latest_psf": 6750.0,
+    "trend_1yr": 5.5,
+    "trend_3yr": 9.8,
+    "trend_5yr": 22.7,
+    "data_points": [
+      {
+        "quarter": "Jan-Mar, 2024",
+        "psf": 6900
+      },
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 6750
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 6200
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 6400
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 6450
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 6650
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 6750
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 6750
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:54.113939+00:00",
+    "area_name": "Pimpri-Chinchwad",
+    "city": "Pune"
+  },
+  {
+    "locality": "Wagholi",
+    "latest_psf": 6000.0,
+    "trend_1yr": -2.4,
+    "trend_3yr": 16.5,
+    "trend_5yr": 37.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 5650
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 5750
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 5650
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 6150
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 6100
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 5850
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 5700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 6000
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:54.776915+00:00",
+    "area_name": "Wagholi",
+    "city": "Pune"
+  },
+  {
+    "locality": "Undri",
+    "latest_psf": 6350.0,
+    "trend_1yr": -2.3,
+    "trend_3yr": 5.8,
+    "trend_5yr": 19.8,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 5700
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 5900
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 6100
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 6500
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 6100
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 6250
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 6200
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 6350
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:54.874013+00:00",
+    "area_name": "Undri",
+    "city": "Pune"
+  },
+  {
+    "locality": "Dhanori",
+    "latest_psf": 7100.0,
+    "trend_1yr": -0.7,
+    "trend_3yr": 19.3,
+    "trend_5yr": 30.3,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 6300
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 6500
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 6400
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 7150
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 6900
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 7050
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 7000
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 7100
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:57.924514+00:00",
+    "area_name": "Dhanori",
+    "city": "Pune"
+  },
+  {
+    "locality": "Kondhwa",
+    "latest_psf": 7100.0,
+    "trend_1yr": 2.2,
+    "trend_3yr": 17.4,
+    "trend_5yr": 32.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 6300
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 6350
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 6400
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 6950
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 6500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 6900
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 7000
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 7100
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:18:57.539061+00:00",
+    "area_name": "Kondhwa",
+    "city": "Pune"
+  },
+  {
+    "locality": "Talegaon Dabhade",
+    "latest_psf": 4450.0,
+    "trend_1yr": -6.3,
+    "trend_3yr": 9.9,
+    "trend_5yr": 20.3,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 4100
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 4350
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 4350
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 4750
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 4400
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 4550
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 4450
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 4450
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:18:57.880495+00:00",
+    "area_name": "Talegaon",
+    "city": "Pune"
+  },
+  {
+    "locality": "Chakan",
+    "latest_psf": 4000.0,
+    "trend_1yr": 2.6,
+    "trend_3yr": 9.6,
+    "trend_5yr": 23.1,
+    "data_points": [
+      {
+        "quarter": "Jan-Mar, 2024",
+        "psf": 3950
+      },
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 3850
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 3900
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 3900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 4000
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 4000
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 3950
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 4000
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:18:58.275376+00:00",
+    "area_name": "Chakan",
+    "city": "Pune"
+  },
+  {
+    "locality": "Dharampeth",
+    "latest_psf": 10000.0,
+    "trend_1yr": -1.5,
+    "trend_3yr": 29.0,
+    "trend_5yr": 69.5,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9350
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 8700
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 9000
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 10150
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 9500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9600
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9800
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 10000
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:18:58.751653+00:00",
+    "area_name": "Dharampeth",
+    "city": "Nagpur"
+  },
+  {
+    "locality": "Civil Lines",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:01.711243+00:00",
+    "area_name": "Civil Lines",
+    "city": "Nagpur"
+  },
+  {
+    "locality": "Manish Nagar",
+    "latest_psf": 4550.0,
+    "trend_1yr": 0.0,
+    "trend_3yr": 3.4,
+    "trend_5yr": 16.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 4700
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 4550
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 4450
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 4550
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 4500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 4550
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 4550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 4550
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:01.654992+00:00",
+    "area_name": "Manish Nagar",
+    "city": "Nagpur"
+  },
+  {
+    "locality": "Wardha Road",
+    "latest_psf": 2300.0,
+    "trend_1yr": 15.0,
+    "trend_3yr": 48.4,
+    "trend_5yr": 84.0,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 4350
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 4500
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 4550
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 4850
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 4650
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 4750
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 4750
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 4750
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:19:01.755860+00:00",
+    "area_name": "Wardha Road",
+    "city": "Nagpur"
+  },
+  {
+    "locality": "Hingna Road",
+    "latest_psf": 2150.0,
+    "trend_1yr": 2.4,
+    "trend_3yr": 34.4,
+    "trend_5yr": 104.8,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 3050
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 3100
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 4350
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 4550
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 4500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 3700
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 4500
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 2800
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:19:02.761008+00:00",
+    "area_name": "Hingna Road",
+    "city": "Nagpur"
+  },
+  {
+    "locality": "Cidco",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 7600
+      }
+    ],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:02.703379+00:00",
+    "area_name": "Cidco",
+    "city": "Aurangabad"
+  },
+  {
+    "locality": "Jalna Road",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:05.762147+00:00",
+    "area_name": "Jalna Road",
+    "city": "Aurangabad"
+  },
+  {
+    "locality": "Waluj",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [
+      {
+        "quarter": "Oct-Dec, 2015",
+        "psf": 2300
+      },
+      {
+        "quarter": "Jan-Mar, 2021",
+        "psf": 2600
+      },
+      {
+        "quarter": "Apr-June, 2023",
+        "psf": 3400
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 3700
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 3550
+      }
+    ],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:06.537812+00:00",
+    "area_name": "Waluj",
+    "city": "Aurangabad"
+  },
+  {
+    "locality": "Rajarampuri",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:05.806589+00:00",
+    "area_name": "Rajarampuri",
+    "city": "Kolhapur"
+  },
+  {
+    "locality": "Shahupuri",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:06.585685+00:00",
+    "area_name": "Shahupuri",
+    "city": "Kolhapur"
+  },
+  {
+    "locality": "Tarabai Park",
+    "latest_psf": null,
+    "trend_1yr": null,
+    "trend_3yr": null,
+    "trend_5yr": null,
+    "data_points": [
+      {
+        "quarter": "Oct-Dec, 2022",
+        "psf": 7050
+      }
+    ],
+    "budget_range": null,
+    "scraped_at": "2026-04-21T17:19:06.630159+00:00",
+    "area_name": "Tarabai Park",
+    "city": "Kolhapur"
+  },
+  {
+    "locality": "Worli",
+    "latest_psf": 68950.0,
+    "trend_1yr": 10.1,
+    "trend_3yr": 26.3,
+    "trend_5yr": 37.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 62200
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 62500
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 62500
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 62600
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 66350
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 65000
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 65800
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 68950
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:09.704794+00:00",
+    "area_name": "Worli",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Andheri West",
+    "latest_psf": 39350.0,
+    "trend_1yr": 9.0,
+    "trend_3yr": 15.9,
+    "trend_5yr": 20.2,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 35500
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 36600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 36700
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 36100
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 37800
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 38150
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 37700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 39350
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:09.659745+00:00",
+    "area_name": "Andheri West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Powai",
+    "latest_psf": 39200.0,
+    "trend_1yr": 7.5,
+    "trend_3yr": 26.5,
+    "trend_5yr": 34.2,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 34600
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 34600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 35700
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 36450
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 37650
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 37850
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 38550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 39200
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:10.593479+00:00",
+    "area_name": "Powai",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Bhandup West",
+    "latest_psf": 24500.0,
+    "trend_1yr": 4.9,
+    "trend_3yr": 10.1,
+    "trend_5yr": 21.3,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 22650
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 22650
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 23350
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 23350
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 23200
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 23350
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 23850
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 24500
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:19:10.701653+00:00",
+    "area_name": "Bandra West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Goregaon West",
+    "latest_psf": 32000.0,
+    "trend_1yr": 5.1,
+    "trend_3yr": 23.3,
+    "trend_5yr": 25.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 28950
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 29150
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 30800
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 30450
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 31350
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 31800
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 32000
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 32000
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:13.491824+00:00",
+    "area_name": "Goregaon West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Goregaon East",
+    "latest_psf": 32450.0,
+    "trend_1yr": 7.3,
+    "trend_3yr": 16.1,
+    "trend_5yr": 35.8,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 31050
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 29750
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 30800
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 30250
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 31250
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 30600
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 31000
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 32450
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:13.545458+00:00",
+    "area_name": "Goregaon East",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Thane West",
+    "latest_psf": 20300.0,
+    "trend_1yr": 4.1,
+    "trend_3yr": 16.3,
+    "trend_5yr": 21.6,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 18450
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 18650
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 19750
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 19500
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 20050
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 20100
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 19800
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 20300
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:13.643792+00:00",
+    "area_name": "Thane West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Kharghar",
+    "latest_psf": 17500.0,
+    "trend_1yr": 2.3,
+    "trend_3yr": 16.7,
+    "trend_5yr": 24.1,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 15950
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 16300
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 16500
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 17100
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 17100
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 17400
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 17500
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 17500
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:14.939376+00:00",
+    "area_name": "Kharghar",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Mulund West",
+    "latest_psf": 27650.0,
+    "trend_1yr": 1.1,
+    "trend_3yr": 9.5,
+    "trend_5yr": 16.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 27200
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 26600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 27250
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 27350
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 27650
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 27800
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 27700
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 27650
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:14.370577+00:00",
+    "area_name": "Mulund West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Kandivali East",
+    "latest_psf": 29150.0,
+    "trend_1yr": 5.2,
+    "trend_3yr": 16.6,
+    "trend_5yr": 29.3,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 27150
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 27750
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 27900
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 27700
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 28350
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 28550
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 28950
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 29150
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:17.697576+00:00",
+    "area_name": "Kandivali East",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Kandivali West",
+    "latest_psf": 26500.0,
+    "trend_1yr": 2.3,
+    "trend_3yr": 15.2,
+    "trend_5yr": 28.0,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 24400
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 24950
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 26000
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 25900
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 26650
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 26850
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 26150
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 26500
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:19:17.643804+00:00",
+    "area_name": "Kandivali West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Mulund East",
+    "latest_psf": 25850.0,
+    "trend_1yr": 3.2,
+    "trend_3yr": -0.4,
+    "trend_5yr": 10.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 25350
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 24850
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 25500
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 25050
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 25400
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 25350
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 25550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 25850
+      }
+    ],
+    "budget_range": "Affordable",
+    "scraped_at": "2026-04-21T17:19:17.748538+00:00",
+    "area_name": "Bhandup West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Vashi",
+    "latest_psf": 31450.0,
+    "trend_1yr": 13.9,
+    "trend_3yr": 43.9,
+    "trend_5yr": 58.4,
+    "data_points": [
+      {
+        "quarter": "Jan-Mar, 2024",
+        "psf": 26550
+      },
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 25000
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 28200
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 27600
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 28350
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 28800
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 28550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 31450
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:18.391545+00:00",
+    "area_name": "Vashi",
+    "city": "Navi Mumbai"
+  },
+  {
+    "locality": "Sewri",
+    "latest_psf": 45300.0,
+    "trend_1yr": 1.7,
+    "trend_3yr": 12.7,
+    "trend_5yr": 23.6,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 42050
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 42000
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 42450
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 44550
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 43750
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 44000
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 42800
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 45300
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:18.342932+00:00",
+    "area_name": "Nerul",
+    "city": "Navi Mumbai"
+  },
+  {
+    "locality": "Dombivli East",
+    "latest_psf": 9650.0,
+    "trend_1yr": 2.7,
+    "trend_3yr": 9.7,
+    "trend_5yr": 9.7,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 9450
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 9300
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 9250
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 9400
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 9550
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 9500
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9450
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 9650
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:21.407872+00:00",
+    "area_name": "Dombivli East",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Panvel",
+    "latest_psf": 13800.0,
+    "trend_1yr": 9.1,
+    "trend_3yr": 22.7,
+    "trend_5yr": 28.4,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 12450
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 12600
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 12500
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 12650
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 12650
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 13100
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 13100
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 13800
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:21.452068+00:00",
+    "area_name": "Panvel",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Virar West",
+    "latest_psf": 9000.0,
+    "trend_1yr": 3.4,
+    "trend_3yr": 21.6,
+    "trend_5yr": 16.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 8250
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 8650
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 8600
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 8700
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 8800
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 8850
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 9300
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 9000
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:21.357809+00:00",
+    "area_name": "Virar West",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Mira Road East",
+    "latest_psf": 16500.0,
+    "trend_1yr": 6.1,
+    "trend_3yr": 18.7,
+    "trend_5yr": 28.9,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 15150
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 15050
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 14950
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 15550
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 15500
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 15650
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 15800
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 16500
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:22.652407+00:00",
+    "area_name": "Mira Road East",
+    "city": "Mumbai"
+  },
+  {
+    "locality": "Ulwe",
+    "latest_psf": 14850.0,
+    "trend_1yr": 5.3,
+    "trend_3yr": 12.5,
+    "trend_5yr": 20.2,
+    "data_points": [
+      {
+        "quarter": "Jan-Mar, 2024",
+        "psf": 13350
+      },
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 13350
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 13750
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 14100
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 14000
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 14550
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 14550
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 14850
+      }
+    ],
+    "budget_range": "Mid-Segment",
+    "scraped_at": "2026-04-21T17:19:22.240718+00:00",
+    "area_name": "Ulwe",
+    "city": "Navi Mumbai"
+  },
+  {
+    "locality": "Hiranandani Estate",
+    "latest_psf": 25550.0,
+    "trend_1yr": 5.8,
+    "trend_3yr": 21.4,
+    "trend_5yr": 26.2,
+    "data_points": [
+      {
+        "quarter": "Apr-June, 2024",
+        "psf": 24850
+      },
+      {
+        "quarter": "July-Sept, 2024",
+        "psf": 23250
+      },
+      {
+        "quarter": "Oct-Dec, 2024",
+        "psf": 24200
+      },
+      {
+        "quarter": "Jan-Mar, 2025",
+        "psf": 24150
+      },
+      {
+        "quarter": "Apr-June, 2025",
+        "psf": 24400
+      },
+      {
+        "quarter": "July-Sept, 2025",
+        "psf": 25000
+      },
+      {
+        "quarter": "Oct-Dec, 2025",
+        "psf": 24900
+      },
+      {
+        "quarter": "Jan-Mar, 2026",
+        "psf": 25550
+      }
+    ],
+    "budget_range": "Premium",
+    "scraped_at": "2026-04-21T17:19:25.635992+00:00",
+    "area_name": "Hiranandani Estate",
+    "city": "Mumbai"
+  }
+]

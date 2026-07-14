@@ -1,0 +1,122 @@
+[
+  {
+    "id": "prop-001",
+    "title": "Marina Bay Penthouse",
+    "description": "Stunning 4-bedroom penthouse with panoramic views of Marina Bay Sands and the Singapore skyline. Floor-to-ceiling windows, imported Italian marble, and a private rooftop terrace with infinity pool.",
+    "property_type": "residential",
+    "price": 4500000, "currency": "USD",
+    "bedrooms": 4, "bathrooms": 3, "area": 3200, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-001", "location_id": "loc-001"
+  },
+  {
+    "id": "prop-002",
+    "title": "Palm Jumeirah Villa",
+    "description": "Opulent 6-bedroom beachfront villa on the iconic Palm Jumeirah. Private beach access, temperature-controlled pool, cinema room, and staff quarters with separate entrance.",
+    "property_type": "residential",
+    "price": 55000000, "currency": "AED",
+    "bedrooms": 6, "bathrooms": 7, "area": 12500, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-002", "location_id": "loc-002"
+  },
+  {
+    "id": "prop-003",
+    "title": "Downtown Dubai Office Tower",
+    "description": "Premium Grade-A office space in the heart of Downtown Dubai, offering 360-degree views of Burj Khalifa and the Dubai Fountain. Fully fitted with modern workstations and meeting rooms.",
+    "property_type": "commercial",
+    "price": 12000000, "currency": "AED",
+    "bedrooms": null, "bathrooms": null, "area": 8500, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-003", "location_id": "loc-003"
+  },
+  {
+    "id": "prop-004",
+    "title": "Mayfair Georgian Townhouse",
+    "description": "Exquisite Grade II listed Georgian townhouse in the prestigious Mayfair district. Meticulously restored with original period features blended with contemporary luxury finishes.",
+    "property_type": "residential",
+    "price": 8750000, "currency": "GBP",
+    "bedrooms": 5, "bathrooms": 4, "area": 4800, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-004", "location_id": "loc-004"
+  },
+  {
+    "id": "prop-005",
+    "title": "Manhattan Skyline Apartment",
+    "description": "Luxury 3-bedroom apartment in a new-build tower in Hudson Yards. Breathtaking views of the Manhattan skyline, access to world-class amenities including a residents-only sky lounge.",
+    "property_type": "residential",
+    "price": 6200000, "currency": "USD",
+    "bedrooms": 3, "bathrooms": 3, "area": 2400, "area_unit": "sqft",
+    "status": "under-offer",
+    "developer_id": "dev-005", "location_id": "loc-005"
+  },
+  {
+    "id": "prop-006",
+    "title": "Bandra Sea-View Apartment",
+    "description": "Modern 3-bedroom apartment in the upscale Bandra West neighborhood with uninterrupted Arabian Sea views. Part of an integrated township with retail, dining, and recreational facilities.",
+    "property_type": "residential",
+    "price": 85000000, "currency": "INR",
+    "bedrooms": 3, "bathrooms": 3, "area": 1850, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-006", "location_id": "loc-006"
+  },
+  {
+    "id": "prop-007",
+    "title": "Minato-ku Luxury Residence",
+    "description": "Ultra-modern 2-bedroom residence in the prestigious Minato ward. Japanese minimalist design with high-end finishes, earthquake-resistant construction, and proximity to Roppongi cultural district.",
+    "property_type": "residential",
+    "price": 180000000, "currency": "JPY",
+    "bedrooms": 2, "bathrooms": 2, "area": 95, "area_unit": "sqm",
+    "status": "available",
+    "developer_id": "dev-007", "location_id": "loc-007"
+  },
+  {
+    "id": "prop-008",
+    "title": "Bondi Beach Coastal Villa",
+    "description": "Architecturally striking 4-bedroom villa just steps from Bondi Beach. Open-plan living with seamless indoor-outdoor flow, a native rooftop garden, and sustainable solar-powered design.",
+    "property_type": "residential",
+    "price": 5200000, "currency": "AUD",
+    "bedrooms": 4, "bathrooms": 3, "area": 320, "area_unit": "sqm",
+    "status": "available",
+    "developer_id": "dev-008", "location_id": "loc-008"
+  },
+  {
+    "id": "prop-009",
+    "title": "Le Marais Boutique Retail",
+    "description": "Prime retail space in the historic Le Marais district of Paris. Corner unit with double-height windows, ideal for luxury fashion, art gallery, or concept store. Heavy foot traffic location.",
+    "property_type": "commercial",
+    "price": 2800000, "currency": "EUR",
+    "bedrooms": null, "bathrooms": null, "area": 180, "area_unit": "sqm",
+    "status": "available",
+    "developer_id": "dev-009", "location_id": "loc-009"
+  },
+  {
+    "id": "prop-010",
+    "title": "South Beach Waterfront Condo",
+    "description": "Sleek 2-bedroom waterfront condo in Miami South Beach with direct ocean access. Resort-style amenities including a beach club, marina, spa, and multiple dining venues.",
+    "property_type": "residential",
+    "price": 1850000, "currency": "USD",
+    "bedrooms": 2, "bathrooms": 2, "area": 1500, "area_unit": "sqft",
+    "status": "available",
+    "developer_id": "dev-010", "location_id": "loc-010"
+  },
+  {
+    "id": "prop-011",
+    "title": "Alfama Heritage Development Land",
+    "description": "Rare development opportunity in Lisbon's historic Alfama district. Approved planning permission for a boutique 12-unit residential project with Tagus River views. Includes existing ruins with heritage preservation requirements.",
+    "property_type": "land",
+    "price": 1200000, "currency": "EUR",
+    "bedrooms": null, "bathrooms": null, "area": 850, "area_unit": "sqm",
+    "status": "available",
+    "developer_id": null, "location_id": "loc-011"
+  },
+  {
+    "id": "prop-012",
+    "title": "Yorkville Mixed-Use Complex",
+    "description": "Premium mixed-use property in Toronto's affluent Yorkville neighborhood. Ground floor retail with three floors of high-end residential above. Fully leased with strong tenant profiles and long-term leases in place.",
+    "property_type": "mixed-use",
+    "price": 8900000, "currency": "USD",
+    "bedrooms": null, "bathrooms": null, "area": 9200, "area_unit": "sqft",
+    "status": "under-offer",
+    "developer_id": "dev-011", "location_id": "loc-012"
+  }
+]

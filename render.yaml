@@ -1,0 +1,23 @@
+services:
+  - type: web
+    name: estra-glimmora-api
+    runtime: python
+    plan: free
+    repo: https://github.com/harshhhh03/estra-glimmora
+    branch: main
+    buildCommand: pip install -r backend/requirements.txt
+    startCommand: cd backend && uvicorn app.main:app --host 0.0.0.0 --port $PORT
+    healthCheckPath: /
+    envVars:
+      - key: FRONTEND_URL
+        value: https://estra-glimmora.vercel.app
+      - key: DATABASE_URL
+        sync: false
+      - key: SECRET_KEY
+        sync: false
+      - key: ALGORITHM
+        value: HS256
+      - key: ACCESS_TOKEN_EXPIRE_MINUTES
+        value: "30"
+      - key: PYTHONUNBUFFERED
+        value: "1"

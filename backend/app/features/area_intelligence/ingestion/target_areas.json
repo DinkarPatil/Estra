@@ -1,0 +1,2336 @@
+{
+  "description": "Target Maharashtra micro-markets for v1 area ingestion. Expand the list here; the worker picks it up automatically. lat/lon are optional (Nominatim fallback), district defaults to city when omitted.",
+  "areas": [
+    {
+      "name": "Kalyani Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5512,
+      "lon": 73.9045
+    },
+    {
+      "name": "Viman Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5679,
+      "lon": 73.9143
+    },
+    {
+      "name": "Kharadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5512,
+      "lon": 73.9432
+    },
+    {
+      "name": "Hadapsar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5089,
+      "lon": 73.926
+    },
+    {
+      "name": "Magarpatta",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5145,
+      "lon": 73.9278
+    },
+    {
+      "name": "Koregaon Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5362,
+      "lon": 73.8957
+    },
+    {
+      "name": "Aundh",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5593,
+      "lon": 73.8075
+    },
+    {
+      "name": "Baner",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.559,
+      "lon": 73.7815
+    },
+    {
+      "name": "Balewadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5711,
+      "lon": 73.7716
+    },
+    {
+      "name": "Pashan",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5431,
+      "lon": 73.7891
+    },
+    {
+      "name": "Bavdhan",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.51,
+      "lon": 73.775
+    },
+    {
+      "name": "Hinjewadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5912,
+      "lon": 73.7389
+    },
+    {
+      "name": "Wakad",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5975,
+      "lon": 73.7619
+    },
+    {
+      "name": "Pimple Saudagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.597,
+      "lon": 73.795
+    },
+    {
+      "name": "Wagholi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5799,
+      "lon": 73.9838
+    },
+    {
+      "name": "Kothrud",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5074,
+      "lon": 73.8077
+    },
+    {
+      "name": "NIBM",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4655,
+      "lon": 73.9085
+    },
+    {
+      "name": "Undri",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4589,
+      "lon": 73.9088
+    },
+    {
+      "name": "Andheri East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1136,
+      "lon": 72.8697
+    },
+    {
+      "name": "Andheri West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.137,
+      "lon": 72.8296
+    },
+    {
+      "name": "Bandra West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0596,
+      "lon": 72.8295
+    },
+    {
+      "name": "Powai",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1176,
+      "lon": 72.906
+    },
+    {
+      "name": "Goregaon East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1663,
+      "lon": 72.8526
+    },
+    {
+      "name": "Malad West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1864,
+      "lon": 72.8323
+    },
+    {
+      "name": "Borivali West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2286,
+      "lon": 72.8397
+    },
+    {
+      "name": "Thane West",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2183,
+      "lon": 72.9781
+    },
+    {
+      "name": "Ghodbunder Road",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.255,
+      "lon": 72.968
+    },
+    {
+      "name": "Kolshet",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2408,
+      "lon": 72.9833
+    },
+    {
+      "name": "Manpada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2437,
+      "lon": 72.9672
+    },
+    {
+      "name": "Panchavati",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 20.0109,
+      "lon": 73.7898
+    },
+    {
+      "name": "Gangapur Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 20.0067,
+      "lon": 73.7582
+    },
+    {
+      "name": "College Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9975,
+      "lon": 73.776
+    },
+    {
+      "name": "Indira Nagar",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9975,
+      "lon": 73.7898
+    },
+    {
+      "name": "Deolali Camp",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9497,
+      "lon": 73.8426
+    },
+    {
+      "name": "Dharampeth",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.1486,
+      "lon": 79.0829
+    },
+    {
+      "name": "Civil Lines",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.1572,
+      "lon": 79.0823
+    },
+    {
+      "name": "Manish Nagar",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.0936,
+      "lon": 79.0513
+    },
+    {
+      "name": "Wardha Road",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.0817,
+      "lon": 79.0541
+    },
+    {
+      "name": "Hingna Road",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.1272,
+      "lon": 79.0046
+    },
+    {
+      "name": "Cidco",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8762,
+      "lon": 75.3433
+    },
+    {
+      "name": "Jalna Road",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.9018,
+      "lon": 75.3432
+    },
+    {
+      "name": "Chikalthana",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8571,
+      "lon": 75.3992
+    },
+    {
+      "name": "Waluj",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8396,
+      "lon": 75.2542
+    },
+    {
+      "name": "Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0657,
+      "lon": 73.0717
+    },
+    {
+      "name": "Kondhwa",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4681,
+      "lon": 73.893
+    },
+    {
+      "name": "Mulund West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.175,
+      "lon": 72.9431
+    },
+    {
+      "name": "Taloja",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0741,
+      "lon": 73.1072
+    },
+    {
+      "name": "Ulwe",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9751,
+      "lon": 73.0307
+    },
+    {
+      "name": "Kandivali West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2101,
+      "lon": 72.8306
+    },
+    {
+      "name": "Chembur",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0459,
+      "lon": 72.8975
+    },
+    {
+      "name": "Goregaon West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1631,
+      "lon": 72.8398
+    },
+    {
+      "name": "Kandivali East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.205,
+      "lon": 72.8693
+    },
+    {
+      "name": "Panvel",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9894,
+      "lon": 73.1175
+    },
+    {
+      "name": "Punawale",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6326,
+      "lon": 73.7344
+    },
+    {
+      "name": "Moshi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6664,
+      "lon": 73.8475
+    },
+    {
+      "name": "Ravet",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6537,
+      "lon": 73.7401
+    },
+    {
+      "name": "Bhandup West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1499,
+      "lon": 72.933
+    },
+    {
+      "name": "Dhanori",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5915,
+      "lon": 73.8966
+    },
+    {
+      "name": "Keshav Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5325,
+      "lon": 73.945
+    },
+    {
+      "name": "Majiwada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2157,
+      "lon": 72.9912
+    },
+    {
+      "name": "Malad East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1834,
+      "lon": 72.8614
+    },
+    {
+      "name": "Tathawade",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6202,
+      "lon": 73.7466
+    },
+    {
+      "name": "Borivali East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2273,
+      "lon": 72.8634
+    },
+    {
+      "name": "Worli",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0036,
+      "lon": 72.8175
+    },
+    {
+      "name": "Mundhwa",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5307,
+      "lon": 73.9276
+    },
+    {
+      "name": "Kasarvadavali",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2692,
+      "lon": 72.9704
+    },
+    {
+      "name": "Ghatkopar West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0908,
+      "lon": 72.9077
+    },
+    {
+      "name": "Kamothe",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0174,
+      "lon": 73.0959
+    },
+    {
+      "name": "Parel",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9983,
+      "lon": 72.841
+    },
+    {
+      "name": "Sus",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5524,
+      "lon": 73.7565
+    },
+    {
+      "name": "Mulund East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1531,
+      "lon": 72.9678
+    },
+    {
+      "name": "Dahisar East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.253,
+      "lon": 72.8684
+    },
+    {
+      "name": "Kiwale",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6615,
+      "lon": 73.7288
+    },
+    {
+      "name": "Santacruz West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0813,
+      "lon": 72.8377
+    },
+    {
+      "name": "Prabhadevi",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0153,
+      "lon": 72.8295
+    },
+    {
+      "name": "Nerul",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.035,
+      "lon": 73.0223
+    },
+    {
+      "name": "Wanawari",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4862,
+      "lon": 73.9025
+    },
+    {
+      "name": "Pimple Nilakh",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5764,
+      "lon": 73.7939
+    },
+    {
+      "name": "Lower Parel",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9982,
+      "lon": 72.827
+    },
+    {
+      "name": "Vile Parle East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1005,
+      "lon": 72.8492
+    },
+    {
+      "name": "Ghatkopar East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0791,
+      "lon": 72.908
+    },
+    {
+      "name": "Dombivli",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2406,
+      "lon": 73.1283
+    },
+    {
+      "name": "Juhu",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0983,
+      "lon": 72.8335
+    },
+    {
+      "name": "Wadala",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0122,
+      "lon": 72.8605
+    },
+    {
+      "name": "Balkum Pada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2182,
+      "lon": 72.9937
+    },
+    {
+      "name": "Bhugaon",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5014,
+      "lon": 73.7527
+    },
+    {
+      "name": "Byculla",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9763,
+      "lon": 72.8384
+    },
+    {
+      "name": "Airoli",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1609,
+      "lon": 72.9934
+    },
+    {
+      "name": "Warje",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.484,
+      "lon": 73.7941
+    },
+    {
+      "name": "Vikhroli East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.104,
+      "lon": 72.9388
+    },
+    {
+      "name": "Santacruz East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.08,
+      "lon": 72.8545
+    },
+    {
+      "name": "Ghansoli",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1272,
+      "lon": 72.9967
+    },
+    {
+      "name": "Khar West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0699,
+      "lon": 72.8363
+    },
+    {
+      "name": "Dadar East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0136,
+      "lon": 72.8448
+    },
+    {
+      "name": "Dadar West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0201,
+      "lon": 72.8381
+    },
+    {
+      "name": "Sanpada",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0583,
+      "lon": 73.0164
+    },
+    {
+      "name": "New Panvel",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0003,
+      "lon": 73.1171
+    },
+    {
+      "name": "Chinchwad",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6426,
+      "lon": 73.794
+    },
+    {
+      "name": "Bandra East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0621,
+      "lon": 72.8541
+    },
+    {
+      "name": "Wadala East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0135,
+      "lon": 72.8603
+    },
+    {
+      "name": "Kanjurmarg East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1303,
+      "lon": 72.935
+    },
+    {
+      "name": "Chandivali",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1105,
+      "lon": 72.8992
+    },
+    {
+      "name": "Pimpri",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6324,
+      "lon": 73.8107
+    },
+    {
+      "name": "Vile Parle West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1094,
+      "lon": 72.837
+    },
+    {
+      "name": "Dronagiri",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.8599,
+      "lon": 72.9381
+    },
+    {
+      "name": "Kurla East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0616,
+      "lon": 72.8805
+    },
+    {
+      "name": "Vishrantwadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5732,
+      "lon": 73.8782
+    },
+    {
+      "name": "Jogeshwari West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.143,
+      "lon": 72.8428
+    },
+    {
+      "name": "Kurla West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0771,
+      "lon": 72.884
+    },
+    {
+      "name": "Vashi",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0777,
+      "lon": 73.0028
+    },
+    {
+      "name": "Seawoods",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0135,
+      "lon": 73.0177
+    },
+    {
+      "name": "Dapoli",
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "lat": 17.7531,
+      "lon": 73.1881
+    },
+    {
+      "name": "EON Free Zone",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5527,
+      "lon": 73.9501
+    },
+    {
+      "name": "Pimple Gurav",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5893,
+      "lon": 73.8132
+    },
+    {
+      "name": "Mahim",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0388,
+      "lon": 72.842
+    },
+    {
+      "name": "Versova",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1384,
+      "lon": 72.8122
+    },
+    {
+      "name": "Bandra Kurla Complex",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0627,
+      "lon": 72.8651
+    },
+    {
+      "name": "Dahisar West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2567,
+      "lon": 72.8506
+    },
+    {
+      "name": "Kanjurmarg West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1341,
+      "lon": 72.925
+    },
+    {
+      "name": "Dombivli East",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2049,
+      "lon": 73.1069
+    },
+    {
+      "name": "Jogeshwari East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1353,
+      "lon": 72.8585
+    },
+    {
+      "name": "Mahim West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0384,
+      "lon": 72.84
+    },
+    {
+      "name": "Thakur Village",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2072,
+      "lon": 72.8726
+    },
+    {
+      "name": "Owale",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2721,
+      "lon": 72.9586
+    },
+    {
+      "name": "Oshiwara",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1478,
+      "lon": 72.838
+    },
+    {
+      "name": "Tingre Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5771,
+      "lon": 73.8931
+    },
+    {
+      "name": "Bhandup East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1402,
+      "lon": 72.9431
+    },
+    {
+      "name": "JVPD Scheme",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1081,
+      "lon": 72.8323
+    },
+    {
+      "name": "Roadpali",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0366,
+      "lon": 73.0921
+    },
+    {
+      "name": "Marol",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1155,
+      "lon": 72.8767
+    },
+    {
+      "name": "Amanora Park Town",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5204,
+      "lon": 73.9399
+    },
+    {
+      "name": "Karanjade",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9762,
+      "lon": 73.1051
+    },
+    {
+      "name": "Vikhroli West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1137,
+      "lon": 72.9215
+    },
+    {
+      "name": "Mankoli",
+      "city": "Bhiwandi",
+      "state": "Maharashtra",
+      "lat": 19.2327,
+      "lon": 73.0476
+    },
+    {
+      "name": "Khadakpada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2628,
+      "lon": 73.1274
+    },
+    {
+      "name": "Beed Bypass",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8507,
+      "lon": 75.3315
+    },
+    {
+      "name": "Chembur East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0612,
+      "lon": 72.8948
+    },
+    {
+      "name": "Hiranandani Estate",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2578,
+      "lon": 72.984
+    },
+    {
+      "name": "Sion",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0446,
+      "lon": 72.871
+    },
+    {
+      "name": "Taloja Panchanand",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0781,
+      "lon": 73.0952
+    },
+    {
+      "name": "Marunji",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.602,
+      "lon": 73.7172
+    },
+    {
+      "name": "Nahur East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1538,
+      "lon": 72.9505
+    },
+    {
+      "name": "Sion East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0406,
+      "lon": 72.8641
+    },
+    {
+      "name": "Kalher",
+      "city": "Bhiwandi",
+      "state": "Maharashtra",
+      "lat": 19.2404,
+      "lon": 73.0165
+    },
+    {
+      "name": "Hiranandani Gardens",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1197,
+      "lon": 72.9051
+    },
+    {
+      "name": "Vakola",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0795,
+      "lon": 72.8542
+    },
+    {
+      "name": "Nashik Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9701,
+      "lon": 73.8294
+    },
+    {
+      "name": "Bhandup",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1487,
+      "lon": 72.9428
+    },
+    {
+      "name": "Satara Pariser",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8496,
+      "lon": 75.3084
+    },
+    {
+      "name": "Vartak Nagar",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2123,
+      "lon": 72.9625
+    },
+    {
+      "name": "Lokhandwala Township Kandivali East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2005,
+      "lon": 72.8744
+    },
+    {
+      "name": "Gokuldham",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1717,
+      "lon": 72.8706
+    },
+    {
+      "name": "Shivaji Park",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0288,
+      "lon": 72.8387
+    },
+    {
+      "name": "Waghbil",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2666,
+      "lon": 72.9837
+    },
+    {
+      "name": "Pathardi Phata",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9571,
+      "lon": 73.7584
+    },
+    {
+      "name": "Salunkhe Vihar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4805,
+      "lon": 73.8967
+    },
+    {
+      "name": "Bhayandarpada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2834,
+      "lon": 72.9506
+    },
+    {
+      "name": "Mihan",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.0621,
+      "lon": 79.0305
+    },
+    {
+      "name": "Lal Baug",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9915,
+      "lon": 72.8395
+    },
+    {
+      "name": "Fatima Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5042,
+      "lon": 73.9016
+    },
+    {
+      "name": "Kalina",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0738,
+      "lon": 72.8639
+    },
+    {
+      "name": "Mahavir Nagar Kandivali West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2107,
+      "lon": 72.8405
+    },
+    {
+      "name": "Kopar Khairane",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1034,
+      "lon": 73.0072
+    },
+    {
+      "name": "Shankar Kalat Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5994,
+      "lon": 73.7625
+    },
+    {
+      "name": "Balkum Naka",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2207,
+      "lon": 72.9885
+    },
+    {
+      "name": "Padegaon",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8814,
+      "lon": 75.2985
+    },
+    {
+      "name": "Tilak Nagar Chembur",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0677,
+      "lon": 72.8963
+    },
+    {
+      "name": "Byculla East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9763,
+      "lon": 72.8384
+    },
+    {
+      "name": "Sion West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0508,
+      "lon": 72.87
+    },
+    {
+      "name": "Taloja Phase 2",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0725,
+      "lon": 73.0995
+    },
+    {
+      "name": "CBD Belapur",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0191,
+      "lon": 73.0385
+    },
+    {
+      "name": "Shilphata",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1516,
+      "lon": 73.0435
+    },
+    {
+      "name": "Satara Parisar",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8494,
+      "lon": 75.3092
+    },
+    {
+      "name": "IC Colony",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2499,
+      "lon": 72.8474
+    },
+    {
+      "name": "Mohan Nagar Co operative Society",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5549,
+      "lon": 73.7677
+    },
+    {
+      "name": "DN Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1257,
+      "lon": 72.8301
+    },
+    {
+      "name": "Mohamadwadi Settlement",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4704,
+      "lon": 73.9002
+    },
+    {
+      "name": "Maval",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.7561,
+      "lon": 73.4475
+    },
+    {
+      "name": "Sai Nagar",
+      "city": "Amravati",
+      "state": "Maharashtra",
+      "lat": 20.8971,
+      "lon": 77.7423
+    },
+    {
+      "name": "Sainath Nagar Majiwada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2157,
+      "lon": 72.9912
+    },
+    {
+      "name": "Ratnagiri",
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "lat": 17.0034,
+      "lon": 73.3582
+    },
+    {
+      "name": "Karjat",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 18.9113,
+      "lon": 73.3282
+    },
+    {
+      "name": "Evershine Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1908,
+      "lon": 72.8324
+    },
+    {
+      "name": "Kalamboli",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0358,
+      "lon": 73.1007
+    },
+    {
+      "name": "Thakur Complex",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2104,
+      "lon": 72.8636
+    },
+    {
+      "name": "Lonavala",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.7574,
+      "lon": 73.4117
+    },
+    {
+      "name": "Jail Road",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9703,
+      "lon": 73.8401
+    },
+    {
+      "name": "Jankalyan Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.201,
+      "lon": 72.822
+    },
+    {
+      "name": "Kurla",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.072,
+      "lon": 72.8841
+    },
+    {
+      "name": "Lower Parel West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.001,
+      "lon": 72.8245
+    },
+    {
+      "name": "Vishal Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5833,
+      "lon": 73.7842
+    },
+    {
+      "name": "Navade",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0504,
+      "lon": 73.1024
+    },
+    {
+      "name": "Jule Solapur",
+      "city": "Solapur",
+      "state": "Maharashtra",
+      "lat": 17.6341,
+      "lon": 75.9086
+    },
+    {
+      "name": "Dhokali",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2266,
+      "lon": 72.9837
+    },
+    {
+      "name": "Beed Bypass Road",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8507,
+      "lon": 75.3315
+    },
+    {
+      "name": "Thane East",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1812,
+      "lon": 72.9763
+    },
+    {
+      "name": "Bhumkar Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6026,
+      "lon": 73.7535
+    },
+    {
+      "name": "Byculla West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9769,
+      "lon": 72.8316
+    },
+    {
+      "name": "Tukum",
+      "city": "Chandrapur",
+      "state": "Maharashtra",
+      "lat": 19.9949,
+      "lon": 79.3029
+    },
+    {
+      "name": "Besa",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.0908,
+      "lon": 79.0913
+    },
+    {
+      "name": "Bel Tarodi",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.0752,
+      "lon": 79.0772
+    },
+    {
+      "name": "Kanchanvadi",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8362,
+      "lon": 75.2909
+    },
+    {
+      "name": "Pushpak Nagar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.97,
+      "lon": 73.0755
+    },
+    {
+      "name": "Kandarpada",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2561,
+      "lon": 72.8529
+    },
+    {
+      "name": "Wadala West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0152,
+      "lon": 72.8576
+    },
+    {
+      "name": "Temghar Pada",
+      "city": "Bhiwandi",
+      "state": "Maharashtra",
+      "lat": 19.2825,
+      "lon": 73.0794
+    },
+    {
+      "name": "Mira Road East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2792,
+      "lon": 72.8736
+    },
+    {
+      "name": "Paithan Road",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8573,
+      "lon": 75.3039
+    },
+    {
+      "name": "Kopri",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1803,
+      "lon": 72.9704
+    },
+    {
+      "name": "Taloja Phase 1",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0776,
+      "lon": 73.0913
+    },
+    {
+      "name": "Pipla",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.3374,
+      "lon": 79.1852
+    },
+    {
+      "name": "Tagore Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1162,
+      "lon": 72.9321
+    },
+    {
+      "name": "Siddharth Nagar Goregaon West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1631,
+      "lon": 72.8398
+    },
+    {
+      "name": "Kaspate Vasti",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6011,
+      "lon": 73.7645
+    },
+    {
+      "name": "Wadachi Wadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4473,
+      "lon": 73.916
+    },
+    {
+      "name": "Kalyan East",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2279,
+      "lon": 73.1326
+    },
+    {
+      "name": "Kalyan Murbad Road",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.239,
+      "lon": 73.1364
+    },
+    {
+      "name": "Shendra MIDC",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8768,
+      "lon": 75.491
+    },
+    {
+      "name": "Vishram Bagh",
+      "city": "Sangli",
+      "state": "Maharashtra",
+      "lat": 16.847,
+      "lon": 74.5997
+    },
+    {
+      "name": "Godrej Hill",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2624,
+      "lon": 73.1491
+    },
+    {
+      "name": "Sector 10 Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0348,
+      "lon": 73.0755
+    },
+    {
+      "name": "Dahanukar Wadi",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2085,
+      "lon": 72.833
+    },
+    {
+      "name": "Mahalakshmi",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9848,
+      "lon": 72.8276
+    },
+    {
+      "name": "Jawahar Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1594,
+      "lon": 72.8469
+    },
+    {
+      "name": "Charkop",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.21,
+      "lon": 72.8183
+    },
+    {
+      "name": "Shirwal",
+      "city": "Satara",
+      "state": "Maharashtra",
+      "lat": 18.1428,
+      "lon": 73.9572
+    },
+    {
+      "name": "Khopoli",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.798,
+      "lon": 73.3373
+    },
+    {
+      "name": "Naupada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1888,
+      "lon": 72.9704
+    },
+    {
+      "name": "Panchvati",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 20.0095,
+      "lon": 73.7919
+    },
+    {
+      "name": "Garkheda",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8577,
+      "lon": 75.3749
+    },
+    {
+      "name": "Amravati",
+      "city": "Amravati",
+      "state": "Maharashtra",
+      "lat": 20.9192,
+      "lon": 77.7565
+    },
+    {
+      "name": "Thite Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5527,
+      "lon": 73.9454
+    },
+    {
+      "name": "Chandani Chowk",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5058,
+      "lon": 73.7724
+    },
+    {
+      "name": "Dindoshi - Malad East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1769,
+      "lon": 72.864
+    },
+    {
+      "name": "Borhade Wadi",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6651,
+      "lon": 73.8471
+    },
+    {
+      "name": "Veera Desai Industrial Estate",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1374,
+      "lon": 72.8346
+    },
+    {
+      "name": "Chikhalnthana",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8601,
+      "lon": 75.4029
+    },
+    {
+      "name": "Veerbhadra Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5626,
+      "lon": 73.7712
+    },
+    {
+      "name": "Yashwant Nagar Goregaon West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1676,
+      "lon": 72.842
+    },
+    {
+      "name": "Sindhi Society Chembur",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0513,
+      "lon": 72.8908
+    },
+    {
+      "name": "Ubale Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5645,
+      "lon": 73.9632
+    },
+    {
+      "name": "Hill & Dales",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4615,
+      "lon": 73.9082
+    },
+    {
+      "name": "Dombivli",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2094,
+      "lon": 73.0939
+    },
+    {
+      "name": "Adharwadi",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2557,
+      "lon": 73.1253
+    },
+    {
+      "name": "Khedashi",
+      "city": "Ratnagiri",
+      "state": "Maharashtra",
+      "lat": 17.0275,
+      "lon": 73.3604
+    },
+    {
+      "name": "Ambernath",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2144,
+      "lon": 73.2005
+    },
+    {
+      "name": "Itkheda",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8438,
+      "lon": 75.2987
+    },
+    {
+      "name": "Yashodham",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.159,
+      "lon": 72.8693
+    },
+    {
+      "name": "Sinhgad Road",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4576,
+      "lon": 73.8049
+    },
+    {
+      "name": "Akurli Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.205,
+      "lon": 72.8693
+    },
+    {
+      "name": "Pokhran Road",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2071,
+      "lon": 72.9569
+    },
+    {
+      "name": "Malvani",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1826,
+      "lon": 72.8165
+    },
+    {
+      "name": "Morewadi",
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "lat": 16.6567,
+      "lon": 74.2539
+    },
+    {
+      "name": "Sector 36 Kamothe",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0797,
+      "lon": 73.0715
+    },
+    {
+      "name": "Dattapada",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2244,
+      "lon": 72.8623
+    },
+    {
+      "name": "Joggers Park",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5494,
+      "lon": 73.9015
+    },
+    {
+      "name": "Pant Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0841,
+      "lon": 72.9107
+    },
+    {
+      "name": "Titwala",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2955,
+      "lon": 73.2059
+    },
+    {
+      "name": "Balkum Pada No 1",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2182,
+      "lon": 72.993
+    },
+    {
+      "name": "Kavesar",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2607,
+      "lon": 72.9726
+    },
+    {
+      "name": "Kalwa",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1986,
+      "lon": 73.0024
+    },
+    {
+      "name": "Pokharan Road Number 2",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.219,
+      "lon": 72.9681
+    },
+    {
+      "name": "Makhmalabad",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 20.051,
+      "lon": 73.7774
+    },
+    {
+      "name": "Palava City",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1856,
+      "lon": 73.0734
+    },
+    {
+      "name": "Sane Guruji Vasahat",
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "lat": 16.6787,
+      "lon": 74.2047
+    },
+    {
+      "name": "Kapurbawdi",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2203,
+      "lon": 72.9777
+    },
+    {
+      "name": "Sasane Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4863,
+      "lon": 73.9329
+    },
+    {
+      "name": "Vikhroli",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0881,
+      "lon": 72.9388
+    },
+    {
+      "name": "Chunabhatti",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0528,
+      "lon": 72.8726
+    },
+    {
+      "name": "Hindu Colony",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0205,
+      "lon": 72.8482
+    },
+    {
+      "name": "Ashok Nagar Tathawade",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6206,
+      "lon": 73.7458
+    },
+    {
+      "name": "Jayprakash Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.159,
+      "lon": 72.8693
+    },
+    {
+      "name": "Bhusari Colony",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5087,
+      "lon": 73.7903
+    },
+    {
+      "name": "JB Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.11,
+      "lon": 72.868
+    },
+    {
+      "name": "Bhoiwada - Parel",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9984,
+      "lon": 72.8427
+    },
+    {
+      "name": "Gavanpada",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1531,
+      "lon": 72.9647
+    },
+    {
+      "name": "Kalyan West",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2443,
+      "lon": 73.1261
+    },
+    {
+      "name": "Dabha",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.158,
+      "lon": 79.0102
+    },
+    {
+      "name": "Dwarka-Nashik",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9929,
+      "lon": 73.804
+    },
+    {
+      "name": "Ulkanagari",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8631,
+      "lon": 75.3371
+    },
+    {
+      "name": "Dastur Nagar",
+      "city": "Amravati",
+      "state": "Maharashtra",
+      "lat": 20.9041,
+      "lon": 77.7755
+    },
+    {
+      "name": "Nagala Park",
+      "city": "Kolhapur",
+      "state": "Maharashtra",
+      "lat": 16.7099,
+      "lon": 74.2349
+    },
+    {
+      "name": "Teen Hath Naka",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1886,
+      "lon": 72.963
+    },
+    {
+      "name": "Roseland Residency",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.594,
+      "lon": 73.7956
+    },
+    {
+      "name": "Patlipada",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2571,
+      "lon": 72.9812
+    },
+    {
+      "name": "Nerul East",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.035,
+      "lon": 73.0223
+    },
+    {
+      "name": "Ovala Naka",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2721,
+      "lon": 72.9598
+    },
+    {
+      "name": "Chinchpada Gaon",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2117,
+      "lon": 73.1395
+    },
+    {
+      "name": "Dombivli West",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.2175,
+      "lon": 73.075
+    },
+    {
+      "name": "Ambernath East",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.1927,
+      "lon": 73.1855
+    },
+    {
+      "name": "Shahupuri",
+      "city": "Satara",
+      "state": "Maharashtra",
+      "lat": 17.7007,
+      "lon": 73.9777
+    },
+    {
+      "name": "Godoli",
+      "city": "Satara",
+      "state": "Maharashtra",
+      "lat": 17.6753,
+      "lon": 74.0124
+    },
+    {
+      "name": "Sector 19 Ulwe",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9732,
+      "lon": 73.0294
+    },
+    {
+      "name": "Sector 17 Ulwe",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 18.9636,
+      "lon": 73.0217
+    },
+    {
+      "name": "Mahalunge",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.5721,
+      "lon": 73.7571
+    },
+    {
+      "name": "Sector 36 Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0657,
+      "lon": 73.0699
+    },
+    {
+      "name": "Nerul West",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0368,
+      "lon": 73.0148
+    },
+    {
+      "name": "Narendra Nagar",
+      "city": "Nagpur",
+      "state": "Maharashtra",
+      "lat": 21.1046,
+      "lon": 79.0772
+    },
+    {
+      "name": "Govind Nagar",
+      "city": "Nashik",
+      "state": "Maharashtra",
+      "lat": 19.9843,
+      "lon": 73.7787
+    },
+    {
+      "name": "Swami Vivekananda Road",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2101,
+      "lon": 72.8373
+    },
+    {
+      "name": "Kannamwar Nagar 1",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1164,
+      "lon": 72.9396
+    },
+    {
+      "name": "Daulat Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.236,
+      "lon": 72.8606
+    },
+    {
+      "name": "Deonar Chembur",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0459,
+      "lon": 72.9156
+    },
+    {
+      "name": "Samata Nagar Thakur Village",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.205,
+      "lon": 72.8693
+    },
+    {
+      "name": "Four Bungalows",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1294,
+      "lon": 72.8279
+    },
+    {
+      "name": "Chincholi Bunder",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1796,
+      "lon": 72.8384
+    },
+    {
+      "name": "Nehru Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.6328,
+      "lon": 73.8219
+    },
+    {
+      "name": "Kherwadi",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0621,
+      "lon": 72.8541
+    },
+    {
+      "name": "Sunder Nagar Santacruz East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0749,
+      "lon": 72.8607
+    },
+    {
+      "name": "Liberty Garden",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1861,
+      "lon": 72.838
+    },
+    {
+      "name": "Kurar Village",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1849,
+      "lon": 72.8623
+    },
+    {
+      "name": "Panch Pakhdi",
+      "city": "Thane",
+      "state": "Maharashtra",
+      "lat": 19.195,
+      "lon": 72.9667
+    },
+    {
+      "name": "Kanchanwadi",
+      "city": "Aurangabad",
+      "state": "Maharashtra",
+      "lat": 19.8337,
+      "lon": 75.2924
+    },
+    {
+      "name": "Sector 20 Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0503,
+      "lon": 73.0728
+    },
+    {
+      "name": "Sector 35E Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0702,
+      "lon": 73.0749
+    },
+    {
+      "name": "Ghot",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.073,
+      "lon": 73.1072
+    },
+    {
+      "name": "Worli Naka",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0036,
+      "lon": 72.8175
+    },
+    {
+      "name": "Shimpoli",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2237,
+      "lon": 72.8431
+    },
+    {
+      "name": "Sector 12 Kharghar",
+      "city": "Navi Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0436,
+      "lon": 73.0663
+    },
+    {
+      "name": "Azad Nagar Wanowrie",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4844,
+      "lon": 73.9061
+    },
+    {
+      "name": "Upper Govind Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1784,
+      "lon": 72.8574
+    },
+    {
+      "name": "Atur Nagar",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4515,
+      "lon": 73.916
+    },
+    {
+      "name": "Narhe",
+      "city": "Pune",
+      "state": "Maharashtra",
+      "lat": 18.4456,
+      "lon": 73.8254
+    },
+    {
+      "name": "Ambivali",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1317,
+      "lon": 72.8421
+    },
+    {
+      "name": "Best Nagar - Goregaon West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1534,
+      "lon": 72.8399
+    },
+    {
+      "name": "Rajendra Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2273,
+      "lon": 72.8611
+    },
+    {
+      "name": "Devipada",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.2247,
+      "lon": 72.8656
+    },
+    {
+      "name": "Naigaon Dadar East",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0136,
+      "lon": 72.8448
+    },
+    {
+      "name": "Raheja Vihar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1192,
+      "lon": 72.8946
+    },
+    {
+      "name": "Chembur West",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.0637,
+      "lon": 72.9019
+    },
+    {
+      "name": "Tambe Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1774,
+      "lon": 72.9555
+    },
+    {
+      "name": "Kokan Nagar",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1499,
+      "lon": 72.9311
+    },
+    {
+      "name": "Kanjurmarg",
+      "city": "Mumbai",
+      "state": "Maharashtra",
+      "lat": 19.1341,
+      "lon": 72.925
+    }
+  ]
+}

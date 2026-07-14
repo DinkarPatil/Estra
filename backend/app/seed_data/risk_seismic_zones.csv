@@ -1,0 +1,36 @@
+district,zone,state,description
+Pune,III,Maharashtra,Moderate damage risk (IS 1893:2016)
+Mumbai,IV,Maharashtra,High damage risk (coastal proximity to plate boundary)
+Thane,IV,Maharashtra,High damage risk
+Palghar,IV,Maharashtra,High damage risk
+Raigad,IV,Maharashtra,High damage risk
+Ratnagiri,III,Maharashtra,Moderate damage risk
+Sindhudurg,III,Maharashtra,Moderate damage risk
+Nashik,III,Maharashtra,Moderate damage risk
+Ahmednagar,III,Maharashtra,Moderate damage risk
+Dhule,III,Maharashtra,Moderate damage risk
+Jalgaon,III,Maharashtra,Moderate damage risk
+Nandurbar,III,Maharashtra,Moderate damage risk
+Aurangabad,II,Maharashtra,Low damage risk
+Beed,II,Maharashtra,Low damage risk
+Jalna,II,Maharashtra,Low damage risk
+Osmanabad,III,Maharashtra,Moderate damage risk (Latur-Killari region)
+Latur,III,Maharashtra,Moderate damage risk (Latur-Killari region)
+Parbhani,II,Maharashtra,Low damage risk
+Hingoli,II,Maharashtra,Low damage risk
+Nanded,II,Maharashtra,Low damage risk
+Solapur,II,Maharashtra,Low damage risk
+Kolhapur,III,Maharashtra,Moderate damage risk
+Sangli,III,Maharashtra,Moderate damage risk
+Satara,III,Maharashtra,Moderate damage risk
+Nagpur,II,Maharashtra,Low damage risk
+Wardha,II,Maharashtra,Low damage risk
+Bhandara,II,Maharashtra,Low damage risk
+Gondia,II,Maharashtra,Low damage risk
+Chandrapur,II,Maharashtra,Low damage risk
+Gadchiroli,II,Maharashtra,Low damage risk
+Yavatmal,II,Maharashtra,Low damage risk
+Akola,II,Maharashtra,Low damage risk
+Amravati,II,Maharashtra,Low damage risk
+Washim,II,Maharashtra,Low damage risk
+Buldhana,II,Maharashtra,Low damage risk
